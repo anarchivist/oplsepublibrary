@@ -1,0 +1,113 @@
+<refentry id="package...ebookwrite.setguide">
+ <refnamediv>
+  <refname>
+   <function>ebookWrite::setGuide</function>
+  </refname>
+  <refpurpose>
+   sets the guide item desired. Arrays can be sent into the attributes to set
+   more then one  guide item at a time. The guide element identifies
+   fundamental structural components of the publication,  to enable Reading
+   Systems to provide convenient access to them.
+</refpurpose>
+ </refnamediv>
+ <refsynopsisdiv>
+  <funcsynopsis>
+   <funcsynopsisinfo>require_once &apos;/ebookWrite.php&apos;;</funcsynopsisinfo>
+   <funcprototype>
+    <funcdef>
+     void
+     <function>ebookWrite::setGuide</function>
+    </funcdef>
+    <paramdef>
+     string
+     <parameter>$title</parameter>
+    </paramdef>
+    <paramdef>
+     string
+     <parameter>$type</parameter>
+    </paramdef>
+    <paramdef>
+     string
+     <parameter>$href</parameter>
+    </paramdef>
+    <paramdef>
+     int
+     <parameter>
+      <optional>$index = &null;</optional>
+     </parameter>
+    </paramdef>
+   </funcprototype>
+  </funcsynopsis>
+ </refsynopsisdiv>
+ <refsect1 id="package...ebookwrite.setguide.desc">
+  &title.desc;
+  &notdocumented;
+</refsect1>
+ <refsect1 id="package...ebookwrite.setguide.param">
+  &title.param;
+  <para>
+   <variablelist>
+    <varlistentry>
+     <term>
+      &type.string;
+      <parameter>$title</parameter>
+     </term>
+     <listitem>
+      <para>Name of the guide item.</para>
+     </listitem>
+    </varlistentry>
+   </variablelist>
+   <variablelist>
+    <varlistentry>
+     <term>
+      &type.string;
+      <parameter>$type</parameter>
+     </term>
+     <listitem>
+      <para>
+       The required type attribute describes the publication component referenced
+       by the href  attribute. Type should be of this list: cover, title-page, toc
+       &quot;table of contents&quot;, index &quot;back-of-book  style index&quot;,
+       glossary, acknowledgements, bibliography, colophon, copyright-page,
+       dedication, epigraph,  foreword, loi &quot;list of illustrations&quot;, lot
+       &quot;list of tables&quot;, notes, and preface.
+</para>
+     </listitem>
+    </varlistentry>
+   </variablelist>
+   <variablelist>
+    <varlistentry>
+     <term>
+      &type.string;
+      <parameter>$href</parameter>
+     </term>
+     <listitem>
+      <para>location of the guide item.</para>
+     </listitem>
+    </varlistentry>
+   </variablelist>
+   <variablelist>
+    <varlistentry>
+     <term>
+      &type.int;
+      <parameter>$index</parameter>
+     </term>
+     <listitem>
+      <para>The index number of the guide item to be set.</para>
+     </listitem>
+    </varlistentry>
+   </variablelist>
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebookwrite.setguide.throws">
+  &title.throws;
+  <para>
+   <emphasis>throws</emphasis>
+   no exceptions thrown
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebookwrite.setguide.note">
+  &title.note;
+  &note.notstatic;
+</refsect1>
+</refentry>

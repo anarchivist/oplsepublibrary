@@ -1,0 +1,42 @@
+<refentry id="package...ebookread.getebookdataobject">
+ <refnamediv>
+  <refname>
+   <function>ebookRead::getEBookDataObject</function>
+  </refname>
+  <refpurpose>Get the eBook data object. Holds all the data from the epub.</refpurpose>
+ </refnamediv>
+ <refsynopsisdiv>
+  <funcsynopsis>
+   <funcsynopsisinfo>require_once &apos;/ebookRead.php&apos;;</funcsynopsisinfo>
+   <funcprototype>
+    <funcdef>
+     eBookData
+     <function>ebookRead::getEBookDataObject</function>
+    </funcdef>
+    <paramdef />
+   </funcprototype>
+  </funcsynopsis>
+ </refsynopsisdiv>
+ <refsect1 id="package...ebookread.getebookdataobject.desc">
+  &title.desc;
+  &notdocumented;
+</refsect1>
+ <refsect1 id="package...ebookread.getebookdataobject.returns">
+  &title.returns;
+  <para>
+   <emphasis>returns</emphasis>
+   Sends back the eBookData
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebookread.getebookdataobject.throws">
+  &title.throws;
+  <para>
+   <emphasis>throws</emphasis>
+   no exceptions thrown
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebookread.getebookdataobject.note">
+  &title.note;
+  &note.notstatic;
+</refsect1>
+</refentry>

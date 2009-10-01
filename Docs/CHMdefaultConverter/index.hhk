@@ -1,0 +1,1640 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="phpDocumentor 1.4.1 http://www.phpdoc.org">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Files">
+		<param name="Local" value="\_ebookWrite.php.html">
+		</OBJECT>
+	<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ebookData.php">
+		<param name="Local" value="\_ebookData.php.html">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ebookRead.php">
+		<param name="Local" value="\_ebookRead.php.html">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ebookWrite.php">
+		<param name="Local" value="\_ebookWrite.php.html">
+		</OBJECT>
+		
+</UL>	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ebook.php">
+		<param name="Local" value="\_ebook.php.html">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Require_once">
+		<param name="Local" value="\_ebookWrite.php.html">
+		</OBJECT>
+	<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="'ebookWrite.php'">
+		<param name="Local" value="\_ebook.php.html">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="'ebookData.php'">
+		<param name="Local" value="\_ebook.php.html">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="'ebookData.php'">
+		<param name="Local" value="\_ebookRead.php.html">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="'ebookData.php'">
+		<param name="Local" value="\_ebookWrite.php.html">
+		</OBJECT>
+		
+</UL>	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="'ebookRead.php'">
+		<param name="Local" value="\_ebook.php.html">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="'ebookWrite.php'">
+		<param name="Local" value="\_ebook.php.html">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="'ebookData.php'">
+		<param name="Local" value="\_ebook.php.html">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Classes">
+		<param name="Local" value="\ebookWrite.html">
+		</OBJECT>
+	<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ebookData">
+		<param name="Local" value="\ebookData.html">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="guide">
+		<param name="Local" value="\guide.html">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="manifest">
+		<param name="Local" value="\manifest.html">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="tagSet">
+		<param name="Local" value="\tagSet.html">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ebookRead">
+		<param name="Local" value="\ebookRead.html">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ebookWrite">
+		<param name="Local" value="\ebookWrite.html">
+		</OBJECT>
+		
+</UL>	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ebook">
+		<param name="Local" value="\ebook.html">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ebook Methods">
+		<param name="Local" value="\ebook.html">
+		</OBJECT>
+	<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="addContentFile">
+		<param name="Local" value="\ebook.html#methodaddContentFile">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="buildEPUB">
+		<param name="Local" value="\ebook.html#methodbuildEPUB">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getContentFile">
+		<param name="Local" value="\ebook.html#methodgetContentFile">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getContentLoc">
+		<param name="Local" value="\ebook.html#methodgetContentLoc">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcContributor">
+		<param name="Local" value="\ebook.html#methodgetDcContributor">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcCoverage">
+		<param name="Local" value="\ebook.html#methodgetDcCoverage">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcCreator">
+		<param name="Local" value="\ebook.html#methodgetDcCreator">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcDate">
+		<param name="Local" value="\ebook.html#methodgetDcDate">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcDescription">
+		<param name="Local" value="\ebook.html#methodgetDcDescription">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcFormat">
+		<param name="Local" value="\ebook.html#methodgetDcFormat">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcIdentifier">
+		<param name="Local" value="\ebook.html#methodgetDcIdentifier">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcLanguage">
+		<param name="Local" value="\ebook.html#methodgetDcLanguage">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcPublisher">
+		<param name="Local" value="\ebook.html#methodgetDcPublisher">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcRelation">
+		<param name="Local" value="\ebook.html#methodgetDcRelation">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcRights">
+		<param name="Local" value="\ebook.html#methodgetDcRights">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcSource">
+		<param name="Local" value="\ebook.html#methodgetDcSource">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcSubject">
+		<param name="Local" value="\ebook.html#methodgetDcSubject">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcTitle">
+		<param name="Local" value="\ebook.html#methodgetDcTitle">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcType">
+		<param name="Local" value="\ebook.html#methodgetDcType">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getEBookDataObject">
+		<param name="Local" value="\ebook.html#methodgetEBookDataObject">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getFilePath">
+		<param name="Local" value="\ebook.html#methodgetFilePath">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getGuide">
+		<param name="Local" value="\ebook.html#methodgetGuide">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getGuideItem">
+		<param name="Local" value="\ebook.html#methodgetGuideItem">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getManifest">
+		<param name="Local" value="\ebook.html#methodgetManifest">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getManifestItem">
+		<param name="Local" value="\ebook.html#methodgetManifestItem">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getSpine">
+		<param name="Local" value="\ebook.html#methodgetSpine">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getSpineItem">
+		<param name="Local" value="\ebook.html#methodgetSpineItem">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcContributor">
+		<param name="Local" value="\ebook.html#methodsetDcContributor">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcContributorAttrib">
+		<param name="Local" value="\ebook.html#methodsetDcContributorAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcCoverage">
+		<param name="Local" value="\ebook.html#methodsetDcCoverage">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcCoverageAttrib">
+		<param name="Local" value="\ebook.html#methodsetDcCoverageAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcCreator">
+		<param name="Local" value="\ebook.html#methodsetDcCreator">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcCreatorAttrib">
+		<param name="Local" value="\ebook.html#methodsetDcCreatorAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcDate">
+		<param name="Local" value="\ebook.html#methodsetDcDate">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcDateAttrib">
+		<param name="Local" value="\ebook.html#methodsetDcDateAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcDescription">
+		<param name="Local" value="\ebook.html#methodsetDcDescription">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcDescriptionAttrib">
+		<param name="Local" value="\ebook.html#methodsetDcDescriptionAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcFormat">
+		<param name="Local" value="\ebook.html#methodsetDcFormat">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcFormatAttrib">
+		<param name="Local" value="\ebook.html#methodsetDcFormatAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcIdentifier">
+		<param name="Local" value="\ebook.html#methodsetDcIdentifier">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcIdentifierAttrib">
+		<param name="Local" value="\ebook.html#methodsetDcIdentifierAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcLanguage">
+		<param name="Local" value="\ebook.html#methodsetDcLanguage">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcLanguageAttrib">
+		<param name="Local" value="\ebook.html#methodsetDcLanguageAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcPublisher">
+		<param name="Local" value="\ebook.html#methodsetDcPublisher">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcPublisherAttrib">
+		<param name="Local" value="\ebook.html#methodsetDcPublisherAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcRelation">
+		<param name="Local" value="\ebook.html#methodsetDcRelation">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcRelationAttrib">
+		<param name="Local" value="\ebook.html#methodsetDcRelationAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcRights">
+		<param name="Local" value="\ebook.html#methodsetDcRights">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcRightsAttrib">
+		<param name="Local" value="\ebook.html#methodsetDcRightsAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcSource">
+		<param name="Local" value="\ebook.html#methodsetDcSource">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcSourceAttrib">
+		<param name="Local" value="\ebook.html#methodsetDcSourceAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcSubject">
+		<param name="Local" value="\ebook.html#methodsetDcSubject">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcSubjectAttrib">
+		<param name="Local" value="\ebook.html#methodsetDcSubjectAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcTitle">
+		<param name="Local" value="\ebook.html#methodsetDcTitle">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcTitleAttrib">
+		<param name="Local" value="\ebook.html#methodsetDcTitleAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcType">
+		<param name="Local" value="\ebook.html#methodsetDcType">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcTypeAttrib">
+		<param name="Local" value="\ebook.html#methodsetDcTypeAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setGuide">
+		<param name="Local" value="\ebook.html#methodsetGuide">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setSpine">
+		<param name="Local" value="\ebook.html#methodsetSpine">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setSpineToc">
+		<param name="Local" value="\ebook.html#methodsetSpineToc">
+		</OBJECT>
+		
+</UL>	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ebook">
+		<param name="Local" value="\ebook.html#methodebook">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="addContentFile">
+		<param name="Local" value="\ebook.html#methodaddContentFile">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="buildEPUB">
+		<param name="Local" value="\ebook.html#methodbuildEPUB">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getContentFile">
+		<param name="Local" value="\ebook.html#methodgetContentFile">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getContentLoc">
+		<param name="Local" value="\ebook.html#methodgetContentLoc">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcContributor">
+		<param name="Local" value="\ebook.html#methodgetDcContributor">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcCoverage">
+		<param name="Local" value="\ebook.html#methodgetDcCoverage">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcCreator">
+		<param name="Local" value="\ebook.html#methodgetDcCreator">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcDate">
+		<param name="Local" value="\ebook.html#methodgetDcDate">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcDescription">
+		<param name="Local" value="\ebook.html#methodgetDcDescription">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcFormat">
+		<param name="Local" value="\ebook.html#methodgetDcFormat">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcIdentifier">
+		<param name="Local" value="\ebook.html#methodgetDcIdentifier">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcLanguage">
+		<param name="Local" value="\ebook.html#methodgetDcLanguage">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcPublisher">
+		<param name="Local" value="\ebook.html#methodgetDcPublisher">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcRelation">
+		<param name="Local" value="\ebook.html#methodgetDcRelation">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcRights">
+		<param name="Local" value="\ebook.html#methodgetDcRights">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcSource">
+		<param name="Local" value="\ebook.html#methodgetDcSource">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcSubject">
+		<param name="Local" value="\ebook.html#methodgetDcSubject">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcTitle">
+		<param name="Local" value="\ebook.html#methodgetDcTitle">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcType">
+		<param name="Local" value="\ebook.html#methodgetDcType">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getEBookDataObject">
+		<param name="Local" value="\ebook.html#methodgetEBookDataObject">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getFilePath">
+		<param name="Local" value="\ebook.html#methodgetFilePath">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getGuide">
+		<param name="Local" value="\ebook.html#methodgetGuide">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getGuideItem">
+		<param name="Local" value="\ebook.html#methodgetGuideItem">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getManifest">
+		<param name="Local" value="\ebook.html#methodgetManifest">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getManifestItem">
+		<param name="Local" value="\ebook.html#methodgetManifestItem">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getSpine">
+		<param name="Local" value="\ebook.html#methodgetSpine">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getSpineItem">
+		<param name="Local" value="\ebook.html#methodgetSpineItem">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcContributor">
+		<param name="Local" value="\ebook.html#methodsetDcContributor">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcContributorAttrib">
+		<param name="Local" value="\ebook.html#methodsetDcContributorAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcCoverage">
+		<param name="Local" value="\ebook.html#methodsetDcCoverage">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcCoverageAttrib">
+		<param name="Local" value="\ebook.html#methodsetDcCoverageAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcCreator">
+		<param name="Local" value="\ebook.html#methodsetDcCreator">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcCreatorAttrib">
+		<param name="Local" value="\ebook.html#methodsetDcCreatorAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcDate">
+		<param name="Local" value="\ebook.html#methodsetDcDate">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcDateAttrib">
+		<param name="Local" value="\ebook.html#methodsetDcDateAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcDescription">
+		<param name="Local" value="\ebook.html#methodsetDcDescription">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcDescriptionAttrib">
+		<param name="Local" value="\ebook.html#methodsetDcDescriptionAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcFormat">
+		<param name="Local" value="\ebook.html#methodsetDcFormat">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcFormatAttrib">
+		<param name="Local" value="\ebook.html#methodsetDcFormatAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcIdentifier">
+		<param name="Local" value="\ebook.html#methodsetDcIdentifier">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcIdentifierAttrib">
+		<param name="Local" value="\ebook.html#methodsetDcIdentifierAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcLanguage">
+		<param name="Local" value="\ebook.html#methodsetDcLanguage">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcLanguageAttrib">
+		<param name="Local" value="\ebook.html#methodsetDcLanguageAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcPublisher">
+		<param name="Local" value="\ebook.html#methodsetDcPublisher">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcPublisherAttrib">
+		<param name="Local" value="\ebook.html#methodsetDcPublisherAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcRelation">
+		<param name="Local" value="\ebook.html#methodsetDcRelation">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcRelationAttrib">
+		<param name="Local" value="\ebook.html#methodsetDcRelationAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcRights">
+		<param name="Local" value="\ebook.html#methodsetDcRights">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcRightsAttrib">
+		<param name="Local" value="\ebook.html#methodsetDcRightsAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcSource">
+		<param name="Local" value="\ebook.html#methodsetDcSource">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcSourceAttrib">
+		<param name="Local" value="\ebook.html#methodsetDcSourceAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcSubject">
+		<param name="Local" value="\ebook.html#methodsetDcSubject">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcSubjectAttrib">
+		<param name="Local" value="\ebook.html#methodsetDcSubjectAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcTitle">
+		<param name="Local" value="\ebook.html#methodsetDcTitle">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcTitleAttrib">
+		<param name="Local" value="\ebook.html#methodsetDcTitleAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcType">
+		<param name="Local" value="\ebook.html#methodsetDcType">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcTypeAttrib">
+		<param name="Local" value="\ebook.html#methodsetDcTypeAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setGuide">
+		<param name="Local" value="\ebook.html#methodsetGuide">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setSpine">
+		<param name="Local" value="\ebook.html#methodsetSpine">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setSpineToc">
+		<param name="Local" value="\ebook.html#methodsetSpineToc">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ebookData.php">
+		<param name="Local" value="\_ebookData.php.html">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ebookData">
+		<param name="Local" value="\ebookData.html">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ebookData Properties">
+		<param name="Local" value="\ebookData.html">
+		</OBJECT>
+	<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$contributor">
+		<param name="Local" value="\ebookData.html#var$contributor">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$contributorOpfFileAs">
+		<param name="Local" value="\ebookData.html#var$contributorOpfFileAs">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$contributorRole">
+		<param name="Local" value="\ebookData.html#var$contributorRole">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$contributorXmlLang">
+		<param name="Local" value="\ebookData.html#var$contributorXmlLang">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$coverage">
+		<param name="Local" value="\ebookData.html#var$coverage">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$coverageXmlLang">
+		<param name="Local" value="\ebookData.html#var$coverageXmlLang">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$creator">
+		<param name="Local" value="\ebookData.html#var$creator">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$creatorOpfFileAs">
+		<param name="Local" value="\ebookData.html#var$creatorOpfFileAs">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$creatorRole">
+		<param name="Local" value="\ebookData.html#var$creatorRole">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$creatorXmlLang">
+		<param name="Local" value="\ebookData.html#var$creatorXmlLang">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$css">
+		<param name="Local" value="\ebookData.html#var$css">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$description">
+		<param name="Local" value="\ebookData.html#var$description">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$descriptionXmlLang">
+		<param name="Local" value="\ebookData.html#var$descriptionXmlLang">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$eBookdate">
+		<param name="Local" value="\ebookData.html#var$eBookdate">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$eBookdateEvent">
+		<param name="Local" value="\ebookData.html#var$eBookdateEvent">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$eBookdateXsiType">
+		<param name="Local" value="\ebookData.html#var$eBookdateXsiType">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$epub">
+		<param name="Local" value="\ebookData.html#var$epub">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$format">
+		<param name="Local" value="\ebookData.html#var$format">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$formatXsiType">
+		<param name="Local" value="\ebookData.html#var$formatXsiType">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$guide">
+		<param name="Local" value="\ebookData.html#var$guide">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$guideData">
+		<param name="Local" value="\ebookData.html#var$guideData">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$identifier">
+		<param name="Local" value="\ebookData.html#var$identifier">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$identifierId">
+		<param name="Local" value="\ebookData.html#var$identifierId">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$identifierScheme">
+		<param name="Local" value="\ebookData.html#var$identifierScheme">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$identifierXsiType">
+		<param name="Local" value="\ebookData.html#var$identifierXsiType">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$language">
+		<param name="Local" value="\ebookData.html#var$language">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$languageXsiType">
+		<param name="Local" value="\ebookData.html#var$languageXsiType">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$manifest">
+		<param name="Local" value="\ebookData.html#var$manifest">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$manifestData">
+		<param name="Local" value="\ebookData.html#var$manifestData">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$metadata">
+		<param name="Local" value="\ebookData.html#var$metadata">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$opfPath">
+		<param name="Local" value="\ebookData.html#var$opfPath">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$publisher">
+		<param name="Local" value="\ebookData.html#var$publisher">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$publisherXmlLang">
+		<param name="Local" value="\ebookData.html#var$publisherXmlLang">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$relation">
+		<param name="Local" value="\ebookData.html#var$relation">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$relationXmlLang">
+		<param name="Local" value="\ebookData.html#var$relationXmlLang">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$rights">
+		<param name="Local" value="\ebookData.html#var$rights">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$rightsXmlLang">
+		<param name="Local" value="\ebookData.html#var$rightsXmlLang">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$source">
+		<param name="Local" value="\ebookData.html#var$source">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$sourceXmlLang">
+		<param name="Local" value="\ebookData.html#var$sourceXmlLang">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$spine">
+		<param name="Local" value="\ebookData.html#var$spine">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$spineData">
+		<param name="Local" value="\ebookData.html#var$spineData">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$spineToc">
+		<param name="Local" value="\ebookData.html#var$spineToc">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$subject">
+		<param name="Local" value="\ebookData.html#var$subject">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$subjectXmlLang">
+		<param name="Local" value="\ebookData.html#var$subjectXmlLang">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$tempDir">
+		<param name="Local" value="\ebookData.html#var$tempDir">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$title">
+		<param name="Local" value="\ebookData.html#var$title">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$titleXmlLang">
+		<param name="Local" value="\ebookData.html#var$titleXmlLang">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$toc">
+		<param name="Local" value="\ebookData.html#var$toc">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$type">
+		<param name="Local" value="\ebookData.html#var$type">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$typeXsiType">
+		<param name="Local" value="\ebookData.html#var$typeXsiType">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$xpgt">
+		<param name="Local" value="\ebookData.html#var$xpgt">
+		</OBJECT>
+		
+</UL>	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$contentFolder">
+		<param name="Local" value="\ebookData.html#var$contentFolder">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$contributor">
+		<param name="Local" value="\ebookData.html#var$contributor">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$contributorOpfFileAs">
+		<param name="Local" value="\ebookData.html#var$contributorOpfFileAs">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$contributorRole">
+		<param name="Local" value="\ebookData.html#var$contributorRole">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$contributorXmlLang">
+		<param name="Local" value="\ebookData.html#var$contributorXmlLang">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$coverage">
+		<param name="Local" value="\ebookData.html#var$coverage">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$coverageXmlLang">
+		<param name="Local" value="\ebookData.html#var$coverageXmlLang">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$creator">
+		<param name="Local" value="\ebookData.html#var$creator">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$creatorOpfFileAs">
+		<param name="Local" value="\ebookData.html#var$creatorOpfFileAs">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$creatorRole">
+		<param name="Local" value="\ebookData.html#var$creatorRole">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$creatorXmlLang">
+		<param name="Local" value="\ebookData.html#var$creatorXmlLang">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$css">
+		<param name="Local" value="\ebookData.html#var$css">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$description">
+		<param name="Local" value="\ebookData.html#var$description">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$descriptionXmlLang">
+		<param name="Local" value="\ebookData.html#var$descriptionXmlLang">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$eBookdate">
+		<param name="Local" value="\ebookData.html#var$eBookdate">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$eBookdateEvent">
+		<param name="Local" value="\ebookData.html#var$eBookdateEvent">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$eBookdateXsiType">
+		<param name="Local" value="\ebookData.html#var$eBookdateXsiType">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$epub">
+		<param name="Local" value="\ebookData.html#var$epub">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$format">
+		<param name="Local" value="\ebookData.html#var$format">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$formatXsiType">
+		<param name="Local" value="\ebookData.html#var$formatXsiType">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$guide">
+		<param name="Local" value="\ebookData.html#var$guide">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$guideData">
+		<param name="Local" value="\ebookData.html#var$guideData">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$identifier">
+		<param name="Local" value="\ebookData.html#var$identifier">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$identifierId">
+		<param name="Local" value="\ebookData.html#var$identifierId">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$identifierScheme">
+		<param name="Local" value="\ebookData.html#var$identifierScheme">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$identifierXsiType">
+		<param name="Local" value="\ebookData.html#var$identifierXsiType">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$language">
+		<param name="Local" value="\ebookData.html#var$language">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$languageXsiType">
+		<param name="Local" value="\ebookData.html#var$languageXsiType">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$manifest">
+		<param name="Local" value="\ebookData.html#var$manifest">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$manifestData">
+		<param name="Local" value="\ebookData.html#var$manifestData">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$metadata">
+		<param name="Local" value="\ebookData.html#var$metadata">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$opfPath">
+		<param name="Local" value="\ebookData.html#var$opfPath">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$publisher">
+		<param name="Local" value="\ebookData.html#var$publisher">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$publisherXmlLang">
+		<param name="Local" value="\ebookData.html#var$publisherXmlLang">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$relation">
+		<param name="Local" value="\ebookData.html#var$relation">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$relationXmlLang">
+		<param name="Local" value="\ebookData.html#var$relationXmlLang">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$rights">
+		<param name="Local" value="\ebookData.html#var$rights">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$rightsXmlLang">
+		<param name="Local" value="\ebookData.html#var$rightsXmlLang">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$source">
+		<param name="Local" value="\ebookData.html#var$source">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$sourceXmlLang">
+		<param name="Local" value="\ebookData.html#var$sourceXmlLang">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$spine">
+		<param name="Local" value="\ebookData.html#var$spine">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$spineData">
+		<param name="Local" value="\ebookData.html#var$spineData">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$spineToc">
+		<param name="Local" value="\ebookData.html#var$spineToc">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$subject">
+		<param name="Local" value="\ebookData.html#var$subject">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$subjectXmlLang">
+		<param name="Local" value="\ebookData.html#var$subjectXmlLang">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$tempDir">
+		<param name="Local" value="\ebookData.html#var$tempDir">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$title">
+		<param name="Local" value="\ebookData.html#var$title">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$titleXmlLang">
+		<param name="Local" value="\ebookData.html#var$titleXmlLang">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$toc">
+		<param name="Local" value="\ebookData.html#var$toc">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$type">
+		<param name="Local" value="\ebookData.html#var$type">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$typeXsiType">
+		<param name="Local" value="\ebookData.html#var$typeXsiType">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$xpgt">
+		<param name="Local" value="\ebookData.html#var$xpgt">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="guide">
+		<param name="Local" value="\guide.html">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="guide Properties">
+		<param name="Local" value="\guide.html">
+		</OBJECT>
+	<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$title">
+		<param name="Local" value="\guide.html#var$title">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$type">
+		<param name="Local" value="\guide.html#var$type">
+		</OBJECT>
+		
+</UL>	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$href">
+		<param name="Local" value="\guide.html#var$href">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$title">
+		<param name="Local" value="\guide.html#var$title">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$type">
+		<param name="Local" value="\guide.html#var$type">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="manifest">
+		<param name="Local" value="\manifest.html">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="manifest Properties">
+		<param name="Local" value="\manifest.html">
+		</OBJECT>
+	<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$href">
+		<param name="Local" value="\manifest.html#var$href">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$id">
+		<param name="Local" value="\manifest.html#var$id">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$type">
+		<param name="Local" value="\manifest.html#var$type">
+		</OBJECT>
+		
+</UL>	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$fallback">
+		<param name="Local" value="\manifest.html#var$fallback">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$href">
+		<param name="Local" value="\manifest.html#var$href">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$id">
+		<param name="Local" value="\manifest.html#var$id">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$type">
+		<param name="Local" value="\manifest.html#var$type">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="tagSet">
+		<param name="Local" value="\tagSet.html">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="tagSet Properties">
+		<param name="Local" value="\tagSet.html">
+		</OBJECT>
+	<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$value">
+		<param name="Local" value="\tagSet.html#var$value">
+		</OBJECT>
+		
+</UL>	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$tag">
+		<param name="Local" value="\tagSet.html#var$tag">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$value">
+		<param name="Local" value="\tagSet.html#var$value">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ebookRead.php">
+		<param name="Local" value="\_ebookRead.php.html">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="'ebookData.php'">
+		<param name="Local" value="\_ebookRead.php.html">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ebookRead">
+		<param name="Local" value="\ebookRead.html">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ebookRead Properties">
+		<param name="Local" value="\ebookRead.html">
+		</OBJECT>
+	<UL>
+	
+</UL>	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="$ebookData">
+		<param name="Local" value="\ebookRead.html#var$ebookData">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ebookRead Methods">
+		<param name="Local" value="\ebookRead.html">
+		</OBJECT>
+	<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getContentFile">
+		<param name="Local" value="\ebookRead.html#methodgetContentFile">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getContentLoc">
+		<param name="Local" value="\ebookRead.html#methodgetContentLoc">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcContributor">
+		<param name="Local" value="\ebookRead.html#methodgetDcContributor">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcCoverage">
+		<param name="Local" value="\ebookRead.html#methodgetDcCoverage">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcCreator">
+		<param name="Local" value="\ebookRead.html#methodgetDcCreator">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcDate">
+		<param name="Local" value="\ebookRead.html#methodgetDcDate">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcDescription">
+		<param name="Local" value="\ebookRead.html#methodgetDcDescription">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcFormat">
+		<param name="Local" value="\ebookRead.html#methodgetDcFormat">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcIdentifier">
+		<param name="Local" value="\ebookRead.html#methodgetDcIdentifier">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcLanguage">
+		<param name="Local" value="\ebookRead.html#methodgetDcLanguage">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcPublisher">
+		<param name="Local" value="\ebookRead.html#methodgetDcPublisher">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcRelation">
+		<param name="Local" value="\ebookRead.html#methodgetDcRelation">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcRights">
+		<param name="Local" value="\ebookRead.html#methodgetDcRights">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcSource">
+		<param name="Local" value="\ebookRead.html#methodgetDcSource">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcSubject">
+		<param name="Local" value="\ebookRead.html#methodgetDcSubject">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcTitle">
+		<param name="Local" value="\ebookRead.html#methodgetDcTitle">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcType">
+		<param name="Local" value="\ebookRead.html#methodgetDcType">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getEBookDataObject">
+		<param name="Local" value="\ebookRead.html#methodgetEBookDataObject">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getFilePath">
+		<param name="Local" value="\ebookRead.html#methodgetFilePath">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getGuide">
+		<param name="Local" value="\ebookRead.html#methodgetGuide">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getGuideItem">
+		<param name="Local" value="\ebookRead.html#methodgetGuideItem">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getManifest">
+		<param name="Local" value="\ebookRead.html#methodgetManifest">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getManifestItem">
+		<param name="Local" value="\ebookRead.html#methodgetManifestItem">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getSpine">
+		<param name="Local" value="\ebookRead.html#methodgetSpine">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getSpineItem">
+		<param name="Local" value="\ebookRead.html#methodgetSpineItem">
+		</OBJECT>
+		
+</UL>	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ebookRead">
+		<param name="Local" value="\ebookRead.html#methodebookRead">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getContentFile">
+		<param name="Local" value="\ebookRead.html#methodgetContentFile">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getContentLoc">
+		<param name="Local" value="\ebookRead.html#methodgetContentLoc">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcContributor">
+		<param name="Local" value="\ebookRead.html#methodgetDcContributor">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcCoverage">
+		<param name="Local" value="\ebookRead.html#methodgetDcCoverage">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcCreator">
+		<param name="Local" value="\ebookRead.html#methodgetDcCreator">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcDate">
+		<param name="Local" value="\ebookRead.html#methodgetDcDate">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcDescription">
+		<param name="Local" value="\ebookRead.html#methodgetDcDescription">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcFormat">
+		<param name="Local" value="\ebookRead.html#methodgetDcFormat">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcIdentifier">
+		<param name="Local" value="\ebookRead.html#methodgetDcIdentifier">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcLanguage">
+		<param name="Local" value="\ebookRead.html#methodgetDcLanguage">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcPublisher">
+		<param name="Local" value="\ebookRead.html#methodgetDcPublisher">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcRelation">
+		<param name="Local" value="\ebookRead.html#methodgetDcRelation">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcRights">
+		<param name="Local" value="\ebookRead.html#methodgetDcRights">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcSource">
+		<param name="Local" value="\ebookRead.html#methodgetDcSource">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcSubject">
+		<param name="Local" value="\ebookRead.html#methodgetDcSubject">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcTitle">
+		<param name="Local" value="\ebookRead.html#methodgetDcTitle">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getDcType">
+		<param name="Local" value="\ebookRead.html#methodgetDcType">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getEBookDataObject">
+		<param name="Local" value="\ebookRead.html#methodgetEBookDataObject">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getFilePath">
+		<param name="Local" value="\ebookRead.html#methodgetFilePath">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getGuide">
+		<param name="Local" value="\ebookRead.html#methodgetGuide">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getGuideItem">
+		<param name="Local" value="\ebookRead.html#methodgetGuideItem">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getManifest">
+		<param name="Local" value="\ebookRead.html#methodgetManifest">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getManifestItem">
+		<param name="Local" value="\ebookRead.html#methodgetManifestItem">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getSpine">
+		<param name="Local" value="\ebookRead.html#methodgetSpine">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getSpineItem">
+		<param name="Local" value="\ebookRead.html#methodgetSpineItem">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ebookWrite.php">
+		<param name="Local" value="\_ebookWrite.php.html">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="'ebookData.php'">
+		<param name="Local" value="\_ebookWrite.php.html">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ebookWrite">
+		<param name="Local" value="\ebookWrite.html">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ebookWrite Methods">
+		<param name="Local" value="\ebookWrite.html">
+		</OBJECT>
+	<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="addContentFile">
+		<param name="Local" value="\ebookWrite.html#methodaddContentFile">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="buildEPUB">
+		<param name="Local" value="\ebookWrite.html#methodbuildEPUB">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcContributor">
+		<param name="Local" value="\ebookWrite.html#methodsetDcContributor">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcContributorAttrib">
+		<param name="Local" value="\ebookWrite.html#methodsetDcContributorAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcCoverage">
+		<param name="Local" value="\ebookWrite.html#methodsetDcCoverage">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcCoverageAttrib">
+		<param name="Local" value="\ebookWrite.html#methodsetDcCoverageAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcCreator">
+		<param name="Local" value="\ebookWrite.html#methodsetDcCreator">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcCreatorAttrib">
+		<param name="Local" value="\ebookWrite.html#methodsetDcCreatorAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcDate">
+		<param name="Local" value="\ebookWrite.html#methodsetDcDate">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcDateAttrib">
+		<param name="Local" value="\ebookWrite.html#methodsetDcDateAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcDescription">
+		<param name="Local" value="\ebookWrite.html#methodsetDcDescription">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcDescriptionAttrib">
+		<param name="Local" value="\ebookWrite.html#methodsetDcDescriptionAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcFormat">
+		<param name="Local" value="\ebookWrite.html#methodsetDcFormat">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcFormatAttrib">
+		<param name="Local" value="\ebookWrite.html#methodsetDcFormatAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcIdentifier">
+		<param name="Local" value="\ebookWrite.html#methodsetDcIdentifier">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcIdentifierAttrib">
+		<param name="Local" value="\ebookWrite.html#methodsetDcIdentifierAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcLanguage">
+		<param name="Local" value="\ebookWrite.html#methodsetDcLanguage">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcLanguageAttrib">
+		<param name="Local" value="\ebookWrite.html#methodsetDcLanguageAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcPublisher">
+		<param name="Local" value="\ebookWrite.html#methodsetDcPublisher">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcPublisherAttrib">
+		<param name="Local" value="\ebookWrite.html#methodsetDcPublisherAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcRelation">
+		<param name="Local" value="\ebookWrite.html#methodsetDcRelation">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcRelationAttrib">
+		<param name="Local" value="\ebookWrite.html#methodsetDcRelationAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcRights">
+		<param name="Local" value="\ebookWrite.html#methodsetDcRights">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcRightsAttrib">
+		<param name="Local" value="\ebookWrite.html#methodsetDcRightsAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcSource">
+		<param name="Local" value="\ebookWrite.html#methodsetDcSource">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcSourceAttrib">
+		<param name="Local" value="\ebookWrite.html#methodsetDcSourceAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcSubject">
+		<param name="Local" value="\ebookWrite.html#methodsetDcSubject">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcSubjectAttrib">
+		<param name="Local" value="\ebookWrite.html#methodsetDcSubjectAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcTitle">
+		<param name="Local" value="\ebookWrite.html#methodsetDcTitle">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcTitleAttrib">
+		<param name="Local" value="\ebookWrite.html#methodsetDcTitleAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcType">
+		<param name="Local" value="\ebookWrite.html#methodsetDcType">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcTypeAttrib">
+		<param name="Local" value="\ebookWrite.html#methodsetDcTypeAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setGuide">
+		<param name="Local" value="\ebookWrite.html#methodsetGuide">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setSpine">
+		<param name="Local" value="\ebookWrite.html#methodsetSpine">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setSpineToc">
+		<param name="Local" value="\ebookWrite.html#methodsetSpineToc">
+		</OBJECT>
+		
+</UL>	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ebookWrite">
+		<param name="Local" value="\ebookWrite.html#methodebookWrite">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="addContentFile">
+		<param name="Local" value="\ebookWrite.html#methodaddContentFile">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="buildEPUB">
+		<param name="Local" value="\ebookWrite.html#methodbuildEPUB">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcContributor">
+		<param name="Local" value="\ebookWrite.html#methodsetDcContributor">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcContributorAttrib">
+		<param name="Local" value="\ebookWrite.html#methodsetDcContributorAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcCoverage">
+		<param name="Local" value="\ebookWrite.html#methodsetDcCoverage">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcCoverageAttrib">
+		<param name="Local" value="\ebookWrite.html#methodsetDcCoverageAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcCreator">
+		<param name="Local" value="\ebookWrite.html#methodsetDcCreator">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcCreatorAttrib">
+		<param name="Local" value="\ebookWrite.html#methodsetDcCreatorAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcDate">
+		<param name="Local" value="\ebookWrite.html#methodsetDcDate">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcDateAttrib">
+		<param name="Local" value="\ebookWrite.html#methodsetDcDateAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcDescription">
+		<param name="Local" value="\ebookWrite.html#methodsetDcDescription">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcDescriptionAttrib">
+		<param name="Local" value="\ebookWrite.html#methodsetDcDescriptionAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcFormat">
+		<param name="Local" value="\ebookWrite.html#methodsetDcFormat">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcFormatAttrib">
+		<param name="Local" value="\ebookWrite.html#methodsetDcFormatAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcIdentifier">
+		<param name="Local" value="\ebookWrite.html#methodsetDcIdentifier">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcIdentifierAttrib">
+		<param name="Local" value="\ebookWrite.html#methodsetDcIdentifierAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcLanguage">
+		<param name="Local" value="\ebookWrite.html#methodsetDcLanguage">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcLanguageAttrib">
+		<param name="Local" value="\ebookWrite.html#methodsetDcLanguageAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcPublisher">
+		<param name="Local" value="\ebookWrite.html#methodsetDcPublisher">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcPublisherAttrib">
+		<param name="Local" value="\ebookWrite.html#methodsetDcPublisherAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcRelation">
+		<param name="Local" value="\ebookWrite.html#methodsetDcRelation">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcRelationAttrib">
+		<param name="Local" value="\ebookWrite.html#methodsetDcRelationAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcRights">
+		<param name="Local" value="\ebookWrite.html#methodsetDcRights">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcRightsAttrib">
+		<param name="Local" value="\ebookWrite.html#methodsetDcRightsAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcSource">
+		<param name="Local" value="\ebookWrite.html#methodsetDcSource">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcSourceAttrib">
+		<param name="Local" value="\ebookWrite.html#methodsetDcSourceAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcSubject">
+		<param name="Local" value="\ebookWrite.html#methodsetDcSubject">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcSubjectAttrib">
+		<param name="Local" value="\ebookWrite.html#methodsetDcSubjectAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcTitle">
+		<param name="Local" value="\ebookWrite.html#methodsetDcTitle">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcTitleAttrib">
+		<param name="Local" value="\ebookWrite.html#methodsetDcTitleAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcType">
+		<param name="Local" value="\ebookWrite.html#methodsetDcType">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setDcTypeAttrib">
+		<param name="Local" value="\ebookWrite.html#methodsetDcTypeAttrib">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setGuide">
+		<param name="Local" value="\ebookWrite.html#methodsetGuide">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setSpine">
+		<param name="Local" value="\ebookWrite.html#methodsetSpine">
+		</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="setSpineToc">
+		<param name="Local" value="\ebookWrite.html#methodsetSpineToc">
+		</OBJECT>
+		
+</UL>
+</BODY></HTML>

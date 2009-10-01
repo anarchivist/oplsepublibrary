@@ -1,0 +1,77 @@
+<refentry id="package...ebookwrite.setdccontributor">
+ <refnamediv>
+  <refname>
+   <function>ebookWrite::setDcContributor</function>
+  </refname>
+  <refpurpose>Sets the contributor. Multiple instances are permitted.</refpurpose>
+ </refnamediv>
+ <refsynopsisdiv>
+  <funcsynopsis>
+   <funcsynopsisinfo>require_once &apos;/ebookWrite.php&apos;;</funcsynopsisinfo>
+   <funcprototype>
+    <funcdef>
+     void
+     <function>ebookWrite::setDcContributor</function>
+    </funcdef>
+    <paramdef>
+     string
+     <parameter>$contributor</parameter>
+    </paramdef>
+    <paramdef>
+     int
+     <parameter>
+      <optional>$index = &null;</optional>
+     </parameter>
+    </paramdef>
+   </funcprototype>
+  </funcsynopsis>
+ </refsynopsisdiv>
+ <refsect1 id="package...ebookwrite.setdccontributor.desc">
+  &title.desc;
+  &notdocumented;
+</refsect1>
+ <refsect1 id="package...ebookwrite.setdccontributor.param">
+  &title.param;
+  <para>
+   <variablelist>
+    <varlistentry>
+     <term>
+      &type.string;
+      <parameter>$contributor</parameter>
+     </term>
+     <listitem>
+      <para>
+       The contributor to be set. If you want set more then one contributor send
+       an array into this parameter.
+</para>
+     </listitem>
+    </varlistentry>
+   </variablelist>
+   <variablelist>
+    <varlistentry>
+     <term>
+      &type.int;
+      <parameter>$index</parameter>
+     </term>
+     <listitem>
+      <para>
+       if there is more then one instance of this item, specify it and that item
+       will be edited.
+</para>
+     </listitem>
+    </varlistentry>
+   </variablelist>
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebookwrite.setdccontributor.throws">
+  &title.throws;
+  <para>
+   <emphasis>throws</emphasis>
+   no exceptions thrown
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebookwrite.setdccontributor.note">
+  &title.note;
+  &note.notstatic;
+</refsect1>
+</refentry>

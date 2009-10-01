@@ -1,0 +1,74 @@
+<refentry id="package...ebook.setdctitle">
+ <refnamediv>
+  <refname>
+   <function>ebook::setDcTitle</function>
+  </refname>
+  <refpurpose>Sets the title</refpurpose>
+ </refnamediv>
+ <refsynopsisdiv>
+  <funcsynopsis>
+   <funcsynopsisinfo>require_once &apos;/ebook.php&apos;;</funcsynopsisinfo>
+   <funcprototype>
+    <funcdef>
+     void
+     <function>ebook::setDcTitle</function>
+    </funcdef>
+    <paramdef>
+     $title
+     <parameter>$title</parameter>
+    </paramdef>
+    <paramdef>
+     $index
+     <parameter>
+      <optional>$index = &null;</optional>
+     </parameter>
+    </paramdef>
+   </funcprototype>
+  </funcsynopsis>
+ </refsynopsisdiv>
+ <refsect1 id="package...ebook.setdctitle.desc">
+  &title.desc;
+  &notdocumented;
+</refsect1>
+ <refsect1 id="package...ebook.setdctitle.param">
+  &title.param;
+  <para>
+   <variablelist>
+    <varlistentry>
+     <term>
+      <type>$title</type>
+      <parameter>$title</parameter>
+     </term>
+     <listitem>
+      <para>The title to be set. If you want set more then one send an array.</para>
+     </listitem>
+    </varlistentry>
+   </variablelist>
+   <variablelist>
+    <varlistentry>
+     <term>
+      <type>$index</type>
+      <parameter>$index</parameter>
+     </term>
+     <listitem>
+      <para>
+       if there is more then one instance of this item, specify it and that item
+       will be edited.
+</para>
+     </listitem>
+    </varlistentry>
+   </variablelist>
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebook.setdctitle.throws">
+  &title.throws;
+  <para>
+   <emphasis>throws</emphasis>
+   no exceptions thrown
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebook.setdctitle.note">
+  &title.note;
+  &note.notstatic;
+</refsect1>
+</refentry>

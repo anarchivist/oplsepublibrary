@@ -1,0 +1,77 @@
+<refentry id="package...ebook.setdccoverage">
+ <refnamediv>
+  <refname>
+   <function>ebook::setDcCoverage</function>
+  </refname>
+  <refpurpose>Sets the coverage. Multiple instances are permitted.</refpurpose>
+ </refnamediv>
+ <refsynopsisdiv>
+  <funcsynopsis>
+   <funcsynopsisinfo>require_once &apos;/ebook.php&apos;;</funcsynopsisinfo>
+   <funcprototype>
+    <funcdef>
+     void
+     <function>ebook::setDcCoverage</function>
+    </funcdef>
+    <paramdef>
+     $coverage
+     <parameter>$coverage</parameter>
+    </paramdef>
+    <paramdef>
+     $index
+     <parameter>
+      <optional>$index = &null;</optional>
+     </parameter>
+    </paramdef>
+   </funcprototype>
+  </funcsynopsis>
+ </refsynopsisdiv>
+ <refsect1 id="package...ebook.setdccoverage.desc">
+  &title.desc;
+  &notdocumented;
+</refsect1>
+ <refsect1 id="package...ebook.setdccoverage.param">
+  &title.param;
+  <para>
+   <variablelist>
+    <varlistentry>
+     <term>
+      <type>$coverage</type>
+      <parameter>$coverage</parameter>
+     </term>
+     <listitem>
+      <para>
+       The coverage to be set. If you want set more then one coverage send an
+       array into this parameter.
+</para>
+     </listitem>
+    </varlistentry>
+   </variablelist>
+   <variablelist>
+    <varlistentry>
+     <term>
+      <type>$index</type>
+      <parameter>$index</parameter>
+     </term>
+     <listitem>
+      <para>
+       if there is more then one instance of this item, specify it and that item
+       will be edited.
+</para>
+     </listitem>
+    </varlistentry>
+   </variablelist>
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebook.setdccoverage.throws">
+  &title.throws;
+  <para>
+   <emphasis>throws</emphasis>
+   no exceptions thrown
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebook.setdccoverage.note">
+  &title.note;
+  &note.notstatic;
+</refsect1>
+</refentry>

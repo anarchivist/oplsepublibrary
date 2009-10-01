@@ -1,0 +1,324 @@
+<sect1 id="package.." />
+ <title>
+  <refentry id="package...ebook-summary">
+   <refnamediv>
+    <refname>
+     Class Summary
+     <classname>ebook</classname>
+    </refname>
+    <refpurpose>
+     This is the primary class intented for general use. This class uses the
+     open ebook reader and the open  ebook writter classes. If you wish to only
+     read or write you can use the single libary insted of this  combined one.
+     This class is only intended to make it easier to see and use the reader and
+     writter, There  should only be calls to functions from reader or writter
+     here.
+</refpurpose>
+   </refnamediv>
+   <refsect1>
+    <title>
+     This is the primary class intented for general use. This class uses the
+     open ebook reader and the open  ebook writter classes. If you wish to only
+     read or write you can use the single libary insted of this  combined one.
+     This class is only intended to make it easier to see and use the reader and
+     writter, There  should only be calls to functions from reader or writter
+     here.
+</title>
+    &notdocumented;
+ &package..;
+   </refsect1>
+   <refsect1>
+    <title>
+     Class Trees for
+     <classname>ebook</classname>
+    </title>
+    <para>
+     <itemizedlist>
+      <listitem>
+       <para>ebook</para>
+      </listitem>
+     </itemizedlist>
+    </para>
+   </refsect1>
+  </refentry>
+  &package...ebook.ebook;
+&package...ebook.addcontentfile;
+&package...ebook.buildepub;
+&package...ebook.getcontentfile;
+&package...ebook.getcontentloc;
+&package...ebook.getdccontributor;
+&package...ebook.getdccoverage;
+&package...ebook.getdccreator;
+&package...ebook.getdcdate;
+&package...ebook.getdcdescription;
+&package...ebook.getdcformat;
+&package...ebook.getdcidentifier;
+&package...ebook.getdclanguage;
+&package...ebook.getdcpublisher;
+&package...ebook.getdcrelation;
+&package...ebook.getdcrights;
+&package...ebook.getdcsource;
+&package...ebook.getdcsubject;
+&package...ebook.getdctitle;
+&package...ebook.getdctype;
+&package...ebook.getebookdataobject;
+&package...ebook.getfilepath;
+&package...ebook.getguide;
+&package...ebook.getguideitem;
+&package...ebook.getmanifest;
+&package...ebook.getmanifestitem;
+&package...ebook.getspine;
+&package...ebook.getspineitem;
+&package...ebook.setdccontributor;
+&package...ebook.setdccontributorattrib;
+&package...ebook.setdccoverage;
+&package...ebook.setdccoverageattrib;
+&package...ebook.setdccreator;
+&package...ebook.setdccreatorattrib;
+&package...ebook.setdcdate;
+&package...ebook.setdcdateattrib;
+&package...ebook.setdcdescription;
+&package...ebook.setdcdescriptionattrib;
+&package...ebook.setdcformat;
+&package...ebook.setdcformatattrib;
+&package...ebook.setdcidentifier;
+&package...ebook.setdcidentifierattrib;
+&package...ebook.setdclanguage;
+&package...ebook.setdclanguageattrib;
+&package...ebook.setdcpublisher;
+&package...ebook.setdcpublisherattrib;
+&package...ebook.setdcrelation;
+&package...ebook.setdcrelationattrib;
+&package...ebook.setdcrights;
+&package...ebook.setdcrightsattrib;
+&package...ebook.setdcsource;
+&package...ebook.setdcsourceattrib;
+&package...ebook.setdcsubject;
+&package...ebook.setdcsubjectattrib;
+&package...ebook.setdctitle;
+&package...ebook.setdctitleattrib;
+&package...ebook.setdctype;
+&package...ebook.setdctypeattrib;
+&package...ebook.setguide;
+&package...ebook.setspine;
+&package...ebook.setspinetoc;
+  <refentry id="package...ebookdata-summary">
+   <refnamediv>
+    <refname>
+     Class Summary
+     <classname>ebookData</classname>
+    </refname>
+    <refpurpose>*****************************************************************************</refpurpose>
+   </refnamediv>
+   <refsect1>
+    <title>*****************************************************************************</title>
+    <para>Software: eBook Data Model                                                      *  Version:  0.5 Alpha                                                          *  Date:     2008-07-21                                                         *  Author:   Jacob Weigand of RIT&apos;s Open Publishing Lab                         *  License:  GNU General Public License (GPL)                                   *                                                                               *  You may use, modify and redistribute this software as you wish.              * ******************************************************************************</para>
+   </refsect1>
+   <refsect1>
+    <title>
+     Class Trees for
+     <classname>ebookData</classname>
+    </title>
+    <para>
+     <itemizedlist>
+      <listitem>
+       <para>ebookData</para>
+      </listitem>
+     </itemizedlist>
+    </para>
+   </refsect1>
+  </refentry>
+ </title>
+  <refentry id="package...ebookread-summary" />
+   <refnamediv>
+    <refname>
+     Class Summary
+     <classname>ebookRead</classname>
+    </refname>
+    <refpurpose />
+    <refsect1>
+     <title>&notdocumented;</title>
+     <refsect1>
+      <title>
+       Class Trees for
+       <classname>ebookRead</classname>
+      </title>
+      <para>
+       <itemizedlist>
+        <listitem>
+         <para>ebookRead</para>
+        </listitem>
+       </itemizedlist>
+      </para>
+     </refsect1>
+    </refsect1>
+    &package...ebookread.ebookread;
+&package...ebookread.getcontentfile;
+&package...ebookread.getcontentloc;
+&package...ebookread.getdccontributor;
+&package...ebookread.getdccoverage;
+&package...ebookread.getdccreator;
+&package...ebookread.getdcdate;
+&package...ebookread.getdcdescription;
+&package...ebookread.getdcformat;
+&package...ebookread.getdcidentifier;
+&package...ebookread.getdclanguage;
+&package...ebookread.getdcpublisher;
+&package...ebookread.getdcrelation;
+&package...ebookread.getdcrights;
+&package...ebookread.getdcsource;
+&package...ebookread.getdcsubject;
+&package...ebookread.getdctitle;
+&package...ebookread.getdctype;
+&package...ebookread.getebookdataobject;
+&package...ebookread.getfilepath;
+&package...ebookread.getguide;
+&package...ebookread.getguideitem;
+&package...ebookread.getmanifest;
+&package...ebookread.getmanifestitem;
+&package...ebookread.getspine;
+&package...ebookread.getspineitem;
+   </refnamediv>
+    <refentry id="package...ebookwrite-summary" />
+     <refnamediv>
+      <refname>
+       Class Summary
+       <classname>ebookWrite</classname>
+      </refname>
+      <refpurpose />
+      <refsect1>
+       <title>&notdocumented;</title>
+       <refsect1>
+        <title>
+         Class Trees for
+         <classname>ebookWrite</classname>
+        </title>
+        <para>
+         <itemizedlist>
+          <listitem>
+           <para>ebookWrite</para>
+          </listitem>
+         </itemizedlist>
+        </para>
+       </refsect1>
+      </refsect1>
+      &package...ebookwrite.ebookwrite;
+&package...ebookwrite.addcontentfile;
+&package...ebookwrite.buildepub;
+&package...ebookwrite.setdccontributor;
+&package...ebookwrite.setdccontributorattrib;
+&package...ebookwrite.setdccoverage;
+&package...ebookwrite.setdccoverageattrib;
+&package...ebookwrite.setdccreator;
+&package...ebookwrite.setdccreatorattrib;
+&package...ebookwrite.setdcdate;
+&package...ebookwrite.setdcdateattrib;
+&package...ebookwrite.setdcdescription;
+&package...ebookwrite.setdcdescriptionattrib;
+&package...ebookwrite.setdcformat;
+&package...ebookwrite.setdcformatattrib;
+&package...ebookwrite.setdcidentifier;
+&package...ebookwrite.setdcidentifierattrib;
+&package...ebookwrite.setdclanguage;
+&package...ebookwrite.setdclanguageattrib;
+&package...ebookwrite.setdcpublisher;
+&package...ebookwrite.setdcpublisherattrib;
+&package...ebookwrite.setdcrelation;
+&package...ebookwrite.setdcrelationattrib;
+&package...ebookwrite.setdcrights;
+&package...ebookwrite.setdcrightsattrib;
+&package...ebookwrite.setdcsource;
+&package...ebookwrite.setdcsourceattrib;
+&package...ebookwrite.setdcsubject;
+&package...ebookwrite.setdcsubjectattrib;
+&package...ebookwrite.setdctitle;
+&package...ebookwrite.setdctitleattrib;
+&package...ebookwrite.setdctype;
+&package...ebookwrite.setdctypeattrib;
+&package...ebookwrite.setguide;
+&package...ebookwrite.setspine;
+&package...ebookwrite.setspinetoc;
+      <refentry id="package...guide-summary">
+       <refnamediv>
+        <refname>
+         Class Summary
+         <classname>guide</classname>
+        </refname>
+        <refpurpose>
+         The guide element identifies fundamental structural components of the
+         publication,  to enable Reading Systems to provide convenient access to
+         them.
+</refpurpose>
+       </refnamediv>
+       <refsect1>
+        <title>
+         The guide element identifies fundamental structural components of the
+         publication,  to enable Reading Systems to provide convenient access to
+         them.
+</title>
+        &notdocumented;
+       </refsect1>
+       <refsect1>
+        <title>
+         Class Trees for
+         <classname>guide</classname>
+        </title>
+        <para>
+         <itemizedlist>
+          <listitem>
+           <para>guide</para>
+          </listitem>
+         </itemizedlist>
+        </para>
+       </refsect1>
+      </refentry>
+     </refnamediv>
+      <refentry id="package...manifest-summary" />
+       <refnamediv>
+        <refname>
+         Class Summary
+         <classname>manifest</classname>
+        </refname>
+        <refpurpose />
+        <refsect1>
+         <title>&notdocumented;</title>
+         <refsect1>
+          <title>
+           Class Trees for
+           <classname>manifest</classname>
+          </title>
+          <para>
+           <itemizedlist>
+            <listitem>
+             <para>manifest</para>
+            </listitem>
+           </itemizedlist>
+          </para>
+         </refsect1>
+        </refsect1>
+       </refnamediv>
+        <refentry id="package...tagset-summary">
+         <refnamediv>
+          <refname>
+           Class Summary
+           <classname>tagSet</classname>
+          </refname>
+          <refpurpose />
+          <refsect1>
+           <title>&notdocumented;</title>
+           <refsect1>
+            <title>
+             Class Trees for
+             <classname>tagSet</classname>
+            </title>
+            <para>
+             <itemizedlist>
+              <listitem>
+               <para>tagSet</para>
+              </listitem>
+             </itemizedlist>
+            </para>
+           </refsect1>
+          </refsect1>
+         </refnamediv>
+        </refentry>

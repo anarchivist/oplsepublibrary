@@ -1,0 +1,128 @@
+<refentry id="package...ebook.addcontentfile">
+ <refnamediv>
+  <refname>
+   <function>ebook::addContentFile</function>
+  </refname>
+  <refpurpose>
+   This is used for adding content files to an epub. Make sure you have write
+   permission to the  destination directory.
+</refpurpose>
+ </refnamediv>
+ <refsynopsisdiv>
+  <funcsynopsis>
+   <funcsynopsisinfo>require_once &apos;/ebook.php&apos;;</funcsynopsisinfo>
+   <funcprototype>
+    <funcdef>
+     Returns
+     <function>ebook::addContentFile</function>
+    </funcdef>
+    <paramdef>
+     $fileLoc
+     <parameter>$fileLoc</parameter>
+    </paramdef>
+    <paramdef>
+     $subDir
+     <parameter>$name</parameter>
+    </paramdef>
+    <paramdef>
+     $name
+     <parameter>$mime</parameter>
+    </paramdef>
+    <paramdef>
+     $mime
+     <parameter>
+      <optional>$subDir = &null;</optional>
+     </parameter>
+    </paramdef>
+    <paramdef>
+     $fallBackId
+     <parameter>
+      <optional>$fallBackId = &null;</optional>
+     </parameter>
+    </paramdef>
+   </funcprototype>
+  </funcsynopsis>
+ </refsynopsisdiv>
+ <refsect1 id="package...ebook.addcontentfile.desc">
+  &title.desc;
+  &notdocumented;
+</refsect1>
+ <refsect1 id="package...ebook.addcontentfile.param">
+  &title.param;
+  <para>
+   <variablelist>
+    <varlistentry>
+     <term>
+      <type>$fileLoc</type>
+      <parameter>$fileLoc</parameter>
+     </term>
+     <listitem>
+      <para>Where is the file currently located.</para>
+     </listitem>
+    </varlistentry>
+   </variablelist>
+   <variablelist>
+    <varlistentry>
+     <term>
+      <type>$subDir</type>
+      <parameter>$name</parameter>
+     </term>
+     <listitem>
+      <para>If you want the file in a subdirectory of the content folder.</para>
+     </listitem>
+    </varlistentry>
+   </variablelist>
+   <variablelist>
+    <varlistentry>
+     <term>
+      <type>$name</type>
+      <parameter>$mime</parameter>
+     </term>
+     <listitem>
+      <para>Short discriptive name of what the content item is. eg: Chapter 3.</para>
+     </listitem>
+    </varlistentry>
+   </variablelist>
+   <variablelist>
+    <varlistentry>
+     <term>
+      <type>$mime</type>
+      <parameter>$subDir</parameter>
+     </term>
+     <listitem>
+      <para>the mime type of the file being added.</para>
+     </listitem>
+    </varlistentry>
+   </variablelist>
+   <variablelist>
+    <varlistentry>
+     <term>
+      <type>$fallBackId</type>
+      <parameter>$fallBackId</parameter>
+     </term>
+     <listitem>
+      <para>the id of an item you wish to use as a fallback item.</para>
+     </listitem>
+    </varlistentry>
+   </variablelist>
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebook.addcontentfile.returns">
+  &title.returns;
+  <para>
+   <emphasis>returns</emphasis>
+   true if the file was added successfully and false if not.
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebook.addcontentfile.throws">
+  &title.throws;
+  <para>
+   <emphasis>throws</emphasis>
+   no exceptions thrown
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebook.addcontentfile.note">
+  &title.note;
+  &note.notstatic;
+</refsect1>
+</refentry>

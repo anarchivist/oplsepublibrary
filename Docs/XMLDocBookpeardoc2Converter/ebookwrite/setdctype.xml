@@ -1,0 +1,77 @@
+<refentry id="package...ebookwrite.setdctype">
+ <refnamediv>
+  <refname>
+   <function>ebookWrite::setDcType</function>
+  </refname>
+  <refpurpose>Sets the type. Multiple instances are permitted.</refpurpose>
+ </refnamediv>
+ <refsynopsisdiv>
+  <funcsynopsis>
+   <funcsynopsisinfo>require_once &apos;/ebookWrite.php&apos;;</funcsynopsisinfo>
+   <funcprototype>
+    <funcdef>
+     void
+     <function>ebookWrite::setDcType</function>
+    </funcdef>
+    <paramdef>
+     string
+     <parameter>$type</parameter>
+    </paramdef>
+    <paramdef>
+     int
+     <parameter>
+      <optional>$index = &null;</optional>
+     </parameter>
+    </paramdef>
+   </funcprototype>
+  </funcsynopsis>
+ </refsynopsisdiv>
+ <refsect1 id="package...ebookwrite.setdctype.desc">
+  &title.desc;
+  &notdocumented;
+</refsect1>
+ <refsect1 id="package...ebookwrite.setdctype.param">
+  &title.param;
+  <para>
+   <variablelist>
+    <varlistentry>
+     <term>
+      &type.string;
+      <parameter>$type</parameter>
+     </term>
+     <listitem>
+      <para>
+       The type to be set. If you want set more then one type send an array into
+       this parameter.
+</para>
+     </listitem>
+    </varlistentry>
+   </variablelist>
+   <variablelist>
+    <varlistentry>
+     <term>
+      &type.int;
+      <parameter>$index</parameter>
+     </term>
+     <listitem>
+      <para>
+       if there is more then one instance of this item, specify it and that item
+       will be edited.
+</para>
+     </listitem>
+    </varlistentry>
+   </variablelist>
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebookwrite.setdctype.throws">
+  &title.throws;
+  <para>
+   <emphasis>throws</emphasis>
+   no exceptions thrown
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebookwrite.setdctype.note">
+  &title.note;
+  &note.notstatic;
+</refsect1>
+</refentry>

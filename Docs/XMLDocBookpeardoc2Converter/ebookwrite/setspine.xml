@@ -1,0 +1,80 @@
+<refentry id="package...ebookwrite.setspine">
+ <refnamediv>
+  <refname>
+   <function>ebookWrite::setSpine</function>
+  </refname>
+  <refpurpose>
+   Sets a desired spine order. The spine is used to determine the reading
+   order.
+</refpurpose>
+ </refnamediv>
+ <refsynopsisdiv>
+  <funcsynopsis>
+   <funcsynopsisinfo>require_once &apos;/ebookWrite.php&apos;;</funcsynopsisinfo>
+   <funcprototype>
+    <funcdef>
+     void
+     <function>ebookWrite::setSpine</function>
+    </funcdef>
+    <paramdef>
+     string
+     <parameter>$spineId</parameter>
+    </paramdef>
+    <paramdef>
+     int
+     <parameter>
+      <optional>$index = &null;</optional>
+     </parameter>
+    </paramdef>
+   </funcprototype>
+  </funcsynopsis>
+ </refsynopsisdiv>
+ <refsect1 id="package...ebookwrite.setspine.desc">
+  &title.desc;
+  &notdocumented;
+</refsect1>
+ <refsect1 id="package...ebookwrite.setspine.param">
+  &title.param;
+  <para>
+   <variablelist>
+    <varlistentry>
+     <term>
+      &type.string;
+      <parameter>$spineId</parameter>
+     </term>
+     <listitem>
+      <para>
+       Send an array of ID names as they appear in the manifest in the order you
+       want them read.
+</para>
+     </listitem>
+    </varlistentry>
+   </variablelist>
+   <variablelist>
+    <varlistentry>
+     <term>
+      &type.int;
+      <parameter>$index</parameter>
+     </term>
+     <listitem>
+      <para>
+       If you wish to set or change just one element of the spine then specify
+       what one in the index parameter.
+</para>
+     </listitem>
+    </varlistentry>
+   </variablelist>
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebookwrite.setspine.throws">
+  &title.throws;
+  <para>
+   <emphasis>throws</emphasis>
+   no exceptions thrown
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebookwrite.setspine.note">
+  &title.note;
+  &note.notstatic;
+</refsect1>
+</refentry>

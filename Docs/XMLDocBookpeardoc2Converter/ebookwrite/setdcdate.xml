@@ -1,0 +1,91 @@
+<refentry id="package...ebookwrite.setdcdate">
+ <refnamediv>
+  <refname>
+   <function>ebookWrite::setDcDate</function>
+  </refname>
+  <refpurpose>Sets the date. Multiple instances are permitted.</refpurpose>
+ </refnamediv>
+ <refsynopsisdiv>
+  <funcsynopsis>
+   <funcsynopsisinfo>require_once &apos;/ebookWrite.php&apos;;</funcsynopsisinfo>
+   <funcprototype>
+    <funcdef>
+     void
+     <function>ebookWrite::setDcDate</function>
+    </funcdef>
+    <paramdef>
+     <parameter>$eBookdate</parameter>
+    </paramdef>
+    <paramdef>
+     int
+     <parameter>
+      <optional>$index = &null;</optional>
+     </parameter>
+    </paramdef>
+    <paramdef>
+     string
+     <parameter>$date</parameter>
+    </paramdef>
+   </funcprototype>
+  </funcsynopsis>
+ </refsynopsisdiv>
+ <refsect1 id="package...ebookwrite.setdcdate.desc">
+  &title.desc;
+  &notdocumented;
+</refsect1>
+ <refsect1 id="package...ebookwrite.setdcdate.param">
+  &title.param;
+  <para>
+   <variablelist>
+    <varlistentry>
+     <term>
+      <type />
+      <parameter>$eBookdate</parameter>
+     </term>
+     <listitem>
+      <para />
+     </listitem>
+    </varlistentry>
+   </variablelist>
+   <variablelist>
+    <varlistentry>
+     <term>
+      &type.int;
+      <parameter>$index</parameter>
+     </term>
+     <listitem>
+      <para>
+       if there is more then one instance of this item, specify it and that item
+       will be edited.
+</para>
+     </listitem>
+    </varlistentry>
+   </variablelist>
+   <variablelist>
+    <varlistentry>
+     <term>
+      &type.string;
+      <parameter>$date</parameter>
+     </term>
+     <listitem>
+      <para>
+       The date to be set. If you want set more then one date send an array into
+       this parameter.
+</para>
+     </listitem>
+    </varlistentry>
+   </variablelist>
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebookwrite.setdcdate.throws">
+  &title.throws;
+  <para>
+   <emphasis>throws</emphasis>
+   no exceptions thrown
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebookwrite.setdcdate.note">
+  &title.note;
+  &note.notstatic;
+</refsect1>
+</refentry>

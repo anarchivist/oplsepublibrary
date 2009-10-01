@@ -1,0 +1,76 @@
+<refentry id="package...ebook.getguideitem">
+ <refnamediv>
+  <refname>
+   <function>ebook::getGuideItem</function>
+  </refname>
+  <refpurpose>Gets the guide item desired</refpurpose>
+ </refnamediv>
+ <refsynopsisdiv>
+  <funcsynopsis>
+   <funcsynopsisinfo>require_once &apos;/ebook.php&apos;;</funcsynopsisinfo>
+   <funcprototype>
+    <funcdef>
+     a
+     <function>ebook::getGuideItem</function>
+    </funcdef>
+    <paramdef>
+     $index
+     <parameter>$index</parameter>
+    </paramdef>
+    <paramdef>
+     $item
+     <parameter>$item</parameter>
+    </paramdef>
+   </funcprototype>
+  </funcsynopsis>
+ </refsynopsisdiv>
+ <refsect1 id="package...ebook.getguideitem.desc">
+  &title.desc;
+  &notdocumented;
+</refsect1>
+ <refsect1 id="package...ebook.getguideitem.param">
+  &title.param;
+  <para>
+   <variablelist>
+    <varlistentry>
+     <term>
+      <type>$index</type>
+      <parameter>$index</parameter>
+     </term>
+     <listitem>
+      <para>The index number of the guide item.</para>
+     </listitem>
+    </varlistentry>
+   </variablelist>
+   <variablelist>
+    <varlistentry>
+     <term>
+      <type>$item</type>
+      <parameter>$item</parameter>
+     </term>
+     <listitem>
+      <para>What attribute do you want from the guide (title, href, or type).</para>
+     </listitem>
+    </varlistentry>
+   </variablelist>
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebook.getguideitem.returns">
+  &title.returns;
+  <para>
+   <emphasis>returns</emphasis>
+   string of the requested data if it exists else returns null.
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebook.getguideitem.throws">
+  &title.throws;
+  <para>
+   <emphasis>throws</emphasis>
+   no exceptions thrown
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebook.getguideitem.note">
+  &title.note;
+  &note.notstatic;
+</refsect1>
+</refentry>

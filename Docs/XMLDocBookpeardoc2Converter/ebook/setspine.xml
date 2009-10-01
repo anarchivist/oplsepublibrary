@@ -1,0 +1,60 @@
+<refentry id="package...ebook.setspine">
+ <refnamediv>
+  <refname>
+   <function>ebook::setSpine</function>
+  </refname>
+  <refpurpose>
+   Sets a desired spine order. The spine is used to determine the reading
+   order.
+</refpurpose>
+ </refnamediv>
+ <refsynopsisdiv>
+  <funcsynopsis>
+   <funcsynopsisinfo>require_once &apos;/ebook.php&apos;;</funcsynopsisinfo>
+   <funcprototype>
+    <funcdef>
+     void
+     <function>ebook::setSpine</function>
+    </funcdef>
+    <paramdef>
+     $spineId
+     <parameter>$spineId</parameter>
+    </paramdef>
+   </funcprototype>
+  </funcsynopsis>
+ </refsynopsisdiv>
+ <refsect1 id="package...ebook.setspine.desc">
+  &title.desc;
+  &notdocumented;
+</refsect1>
+ <refsect1 id="package...ebook.setspine.param">
+  &title.param;
+  <para>
+   <variablelist>
+    <varlistentry>
+     <term>
+      <type>$spineId</type>
+      <parameter>$spineId</parameter>
+     </term>
+     <listitem>
+      <para>
+       Send an array of ID names as they appear in the manifest in the order you
+       want them read.
+</para>
+     </listitem>
+    </varlistentry>
+   </variablelist>
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebook.setspine.throws">
+  &title.throws;
+  <para>
+   <emphasis>throws</emphasis>
+   no exceptions thrown
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebook.setspine.note">
+  &title.note;
+  &note.notstatic;
+</refsect1>
+</refentry>

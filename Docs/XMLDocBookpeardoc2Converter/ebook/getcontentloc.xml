@@ -1,0 +1,42 @@
+<refentry id="package...ebook.getcontentloc">
+ <refnamediv>
+  <refname>
+   <function>ebook::getContentLoc</function>
+  </refname>
+  <refpurpose>Gets the location of all the content inside of the epub.</refpurpose>
+ </refnamediv>
+ <refsynopsisdiv>
+  <funcsynopsis>
+   <funcsynopsisinfo>require_once &apos;/ebook.php&apos;;</funcsynopsisinfo>
+   <funcprototype>
+    <funcdef>
+     the
+     <function>ebook::getContentLoc</function>
+    </funcdef>
+    <paramdef />
+   </funcprototype>
+  </funcsynopsis>
+ </refsynopsisdiv>
+ <refsect1 id="package...ebook.getcontentloc.desc">
+  &title.desc;
+  &notdocumented;
+</refsect1>
+ <refsect1 id="package...ebook.getcontentloc.returns">
+  &title.returns;
+  <para>
+   <emphasis>returns</emphasis>
+   file location of the content folder.
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebook.getcontentloc.throws">
+  &title.throws;
+  <para>
+   <emphasis>throws</emphasis>
+   no exceptions thrown
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebook.getcontentloc.note">
+  &title.note;
+  &note.notstatic;
+</refsect1>
+</refentry>

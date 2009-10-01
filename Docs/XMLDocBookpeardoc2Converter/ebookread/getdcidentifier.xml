@@ -1,0 +1,63 @@
+<refentry id="package...ebookread.getdcidentifier">
+ <refnamediv>
+  <refname>
+   <function>ebookRead::getDcIdentifier</function>
+  </refname>
+  <refpurpose>Gives you the title by default or the attribute specified</refpurpose>
+ </refnamediv>
+ <refsynopsisdiv>
+  <funcsynopsis>
+   <funcsynopsisinfo>require_once &apos;/ebookRead.php&apos;;</funcsynopsisinfo>
+   <funcprototype>
+    <funcdef>
+     string
+     <function>ebookRead::getDcIdentifier</function>
+    </funcdef>
+    <paramdef>
+     string
+     <parameter>
+      <optional>$optional = &null;</optional>
+     </parameter>
+    </paramdef>
+   </funcprototype>
+  </funcsynopsis>
+ </refsynopsisdiv>
+ <refsect1 id="package...ebookread.getdcidentifier.desc">
+  &title.desc;
+  &notdocumented;
+</refsect1>
+ <refsect1 id="package...ebookread.getdcidentifier.param">
+  &title.param;
+  <para>
+   <variablelist>
+    <varlistentry>
+     <term>
+      &type.string;
+      <parameter>$optional</parameter>
+     </term>
+     <listitem>
+      <para>optional attributes are, Scheme, XsiType, Id.</para>
+     </listitem>
+    </varlistentry>
+   </variablelist>
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebookread.getdcidentifier.returns">
+  &title.returns;
+  <para>
+   <emphasis>returns</emphasis>
+   returns the title when nothing is specified for $optional or returns the  attribute requested.
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebookread.getdcidentifier.throws">
+  &title.throws;
+  <para>
+   <emphasis>throws</emphasis>
+   no exceptions thrown
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebookread.getdcidentifier.note">
+  &title.note;
+  &note.notstatic;
+</refsect1>
+</refentry>

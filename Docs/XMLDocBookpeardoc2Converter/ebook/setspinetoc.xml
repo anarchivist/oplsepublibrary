@@ -1,0 +1,57 @@
+<refentry id="package...ebook.setspinetoc">
+ <refnamediv>
+  <refname>
+   <function>ebook::setSpineToc</function>
+  </refname>
+  <refpurpose>
+   Used to tell the spine what manifest item is the Table Of Contents. This
+   does not need to  be set, this is optional.
+</refpurpose>
+ </refnamediv>
+ <refsynopsisdiv>
+  <funcsynopsis>
+   <funcsynopsisinfo>require_once &apos;/ebook.php&apos;;</funcsynopsisinfo>
+   <funcprototype>
+    <funcdef>
+     void
+     <function>ebook::setSpineToc</function>
+    </funcdef>
+    <paramdef>
+     $toc
+     <parameter>$toc</parameter>
+    </paramdef>
+   </funcprototype>
+  </funcsynopsis>
+ </refsynopsisdiv>
+ <refsect1 id="package...ebook.setspinetoc.desc">
+  &title.desc;
+  &notdocumented;
+</refsect1>
+ <refsect1 id="package...ebook.setspinetoc.param">
+  &title.param;
+  <para>
+   <variablelist>
+    <varlistentry>
+     <term>
+      <type>$toc</type>
+      <parameter>$toc</parameter>
+     </term>
+     <listitem>
+      <para>The manifest item that is the table of contents.</para>
+     </listitem>
+    </varlistentry>
+   </variablelist>
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebook.setspinetoc.throws">
+  &title.throws;
+  <para>
+   <emphasis>throws</emphasis>
+   no exceptions thrown
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebook.setspinetoc.note">
+  &title.note;
+  &note.notstatic;
+</refsect1>
+</refentry>

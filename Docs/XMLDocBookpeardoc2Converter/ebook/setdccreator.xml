@@ -1,0 +1,77 @@
+<refentry id="package...ebook.setdccreator">
+ <refnamediv>
+  <refname>
+   <function>ebook::setDcCreator</function>
+  </refname>
+  <refpurpose>Sets the creator. Multiple instances are permitted.</refpurpose>
+ </refnamediv>
+ <refsynopsisdiv>
+  <funcsynopsis>
+   <funcsynopsisinfo>require_once &apos;/ebook.php&apos;;</funcsynopsisinfo>
+   <funcprototype>
+    <funcdef>
+     void
+     <function>ebook::setDcCreator</function>
+    </funcdef>
+    <paramdef>
+     $creator
+     <parameter>$creator</parameter>
+    </paramdef>
+    <paramdef>
+     $index
+     <parameter>
+      <optional>$index = &null;</optional>
+     </parameter>
+    </paramdef>
+   </funcprototype>
+  </funcsynopsis>
+ </refsynopsisdiv>
+ <refsect1 id="package...ebook.setdccreator.desc">
+  &title.desc;
+  &notdocumented;
+</refsect1>
+ <refsect1 id="package...ebook.setdccreator.param">
+  &title.param;
+  <para>
+   <variablelist>
+    <varlistentry>
+     <term>
+      <type>$creator</type>
+      <parameter>$creator</parameter>
+     </term>
+     <listitem>
+      <para>
+       The creator to be set. If you want set more then one creator send an array
+       into this parameter.
+</para>
+     </listitem>
+    </varlistentry>
+   </variablelist>
+   <variablelist>
+    <varlistentry>
+     <term>
+      <type>$index</type>
+      <parameter>$index</parameter>
+     </term>
+     <listitem>
+      <para>
+       if there is more then one instance of this item, specify it and that item
+       will be edited.
+</para>
+     </listitem>
+    </varlistentry>
+   </variablelist>
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebook.setdccreator.throws">
+  &title.throws;
+  <para>
+   <emphasis>throws</emphasis>
+   no exceptions thrown
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebook.setdccreator.note">
+  &title.note;
+  &note.notstatic;
+</refsect1>
+</refentry>

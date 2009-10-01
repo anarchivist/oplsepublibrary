@@ -1,0 +1,77 @@
+<refentry id="package...ebook.setdcrights">
+ <refnamediv>
+  <refname>
+   <function>ebook::setDcRights</function>
+  </refname>
+  <refpurpose>Sets the rights. Multiple instances are permitted.</refpurpose>
+ </refnamediv>
+ <refsynopsisdiv>
+  <funcsynopsis>
+   <funcsynopsisinfo>require_once &apos;/ebook.php&apos;;</funcsynopsisinfo>
+   <funcprototype>
+    <funcdef>
+     void
+     <function>ebook::setDcRights</function>
+    </funcdef>
+    <paramdef>
+     $rights
+     <parameter>$rights</parameter>
+    </paramdef>
+    <paramdef>
+     $index
+     <parameter>
+      <optional>$index = &null;</optional>
+     </parameter>
+    </paramdef>
+   </funcprototype>
+  </funcsynopsis>
+ </refsynopsisdiv>
+ <refsect1 id="package...ebook.setdcrights.desc">
+  &title.desc;
+  &notdocumented;
+</refsect1>
+ <refsect1 id="package...ebook.setdcrights.param">
+  &title.param;
+  <para>
+   <variablelist>
+    <varlistentry>
+     <term>
+      <type>$rights</type>
+      <parameter>$rights</parameter>
+     </term>
+     <listitem>
+      <para>
+       The rights to be set. If you want set more then one rights send an array
+       into this parameter.
+</para>
+     </listitem>
+    </varlistentry>
+   </variablelist>
+   <variablelist>
+    <varlistentry>
+     <term>
+      <type>$index</type>
+      <parameter>$index</parameter>
+     </term>
+     <listitem>
+      <para>
+       if there is more then one instance of this item, specify it and that item
+       will be edited.
+</para>
+     </listitem>
+    </varlistentry>
+   </variablelist>
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebook.setdcrights.throws">
+  &title.throws;
+  <para>
+   <emphasis>throws</emphasis>
+   no exceptions thrown
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebook.setdcrights.note">
+  &title.note;
+  &note.notstatic;
+</refsect1>
+</refentry>

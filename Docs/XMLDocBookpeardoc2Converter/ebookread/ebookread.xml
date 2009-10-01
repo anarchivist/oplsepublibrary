@@ -1,0 +1,58 @@
+<refentry id="package...ebookread.ebookread">
+ <refnamediv>
+  <refname>
+   constructor
+   <function>ebookRead::ebookRead</function>
+  </refname>
+  <refpurpose>Constructor</refpurpose>
+ </refnamediv>
+ <refsynopsisdiv>
+  <funcsynopsis>
+   <funcsynopsisinfo>require_once &apos;/ebookRead.php&apos;;</funcsynopsisinfo>
+   <funcprototype>
+    <funcdef>
+     void      constructor
+     <function>ebookRead::ebookRead</function>
+    </funcdef>
+    <paramdef>
+     $epub
+     <parameter>$epub</parameter>
+    </paramdef>
+   </funcprototype>
+  </funcsynopsis>
+ </refsynopsisdiv>
+ <refsect1 id="package...ebookread.ebookread.desc">
+  &title.desc;
+  &notdocumented;
+</refsect1>
+ <refsect1 id="package...ebookread.ebookread.param">
+  &title.param;
+  <para>
+   <variablelist>
+    <varlistentry>
+     <term>
+      <type>$epub</type>
+      <parameter>$epub</parameter>
+     </term>
+     <listitem>
+      <para>
+       Location of an .epub file for processing or an instance of an ebookData
+       object.
+</para>
+     </listitem>
+    </varlistentry>
+   </variablelist>
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebookread.ebookread.throws">
+  &title.throws;
+  <para>
+   <emphasis>throws</emphasis>
+   no exceptions thrown
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebookread.ebookread.note">
+  &title.note;
+  &note.notstatic;
+</refsect1>
+</refentry>

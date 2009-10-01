@@ -1,0 +1,61 @@
+<refentry id="package...ebook.getcontentfile">
+ <refnamediv>
+  <refname>
+   <function>ebook::getContentFile</function>
+  </refname>
+  <refpurpose>Will give you the requested file out of the epub</refpurpose>
+ </refnamediv>
+ <refsynopsisdiv>
+  <funcsynopsis>
+   <funcsynopsisinfo>require_once &apos;/ebook.php&apos;;</funcsynopsisinfo>
+   <funcprototype>
+    <funcdef>
+     a
+     <function>ebook::getContentFile</function>
+    </funcdef>
+    <paramdef>
+     $location
+     <parameter>$location</parameter>
+    </paramdef>
+   </funcprototype>
+  </funcsynopsis>
+ </refsynopsisdiv>
+ <refsect1 id="package...ebook.getcontentfile.desc">
+  &title.desc;
+  <para>Note: When finding files based on the manifest&apos;s href attribute, the file locations are  relative to where the opf file is all ready located in the file structure. So if the opf file  is at /ops/contnet.opf and your image is at /ops/img/wolf.jpg then your manifest href for that  image will read /img/wolf.jpg. Use basename(getFilePath(&quot;opf&quot;)); for the directories leading to the OPF file.</para>
+ </refsect1>
+ <refsect1 id="package...ebook.getcontentfile.param">
+  &title.param;
+  <para>
+   <variablelist>
+    <varlistentry>
+     <term>
+      <type>$location</type>
+      <parameter>$location</parameter>
+     </term>
+     <listitem>
+      <para>Where inside of the epub is the file you want</para>
+     </listitem>
+    </varlistentry>
+   </variablelist>
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebook.getcontentfile.returns">
+  &title.returns;
+  <para>
+   <emphasis>returns</emphasis>
+   string of the contents of the requested file.
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebook.getcontentfile.throws">
+  &title.throws;
+  <para>
+   <emphasis>throws</emphasis>
+   no exceptions thrown
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebook.getcontentfile.note">
+  &title.note;
+  &note.notstatic;
+</refsect1>
+</refentry>

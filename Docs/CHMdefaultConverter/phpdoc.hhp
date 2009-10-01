@@ -1,0 +1,29 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=documentation.chm
+Contents file=contents.hhc
+Default topic=index.html
+Display compile progress=No
+Index file=Index.hhk
+Language=0x409 English (United States)
+Title=OPL Open eBook Lib Documentation
+
+[FILES]
+\elementindex_.html
+elementindex.html
+blank.html
+classtrees_.html
+\ebook.html
+\_ebook.php.html
+\ebookData.html
+\guide.html
+\manifest.html
+\tagSet.html
+\_ebookData.php.html
+\ebookRead.html
+\_ebookRead.php.html
+\ebookWrite.html
+\_ebookWrite.php.html
+errors.html
+
+[INFOTYPES]

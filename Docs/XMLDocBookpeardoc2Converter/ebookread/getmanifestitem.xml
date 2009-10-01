@@ -1,0 +1,76 @@
+<refentry id="package...ebookread.getmanifestitem">
+ <refnamediv>
+  <refname>
+   <function>ebookRead::getManifestItem</function>
+  </refname>
+  <refpurpose>Gets the manifest item desired</refpurpose>
+ </refnamediv>
+ <refsynopsisdiv>
+  <funcsynopsis>
+   <funcsynopsisinfo>require_once &apos;/ebookRead.php&apos;;</funcsynopsisinfo>
+   <funcprototype>
+    <funcdef>
+     string
+     <function>ebookRead::getManifestItem</function>
+    </funcdef>
+    <paramdef>
+     int
+     <parameter>$index</parameter>
+    </paramdef>
+    <paramdef>
+     string
+     <parameter>$item</parameter>
+    </paramdef>
+   </funcprototype>
+  </funcsynopsis>
+ </refsynopsisdiv>
+ <refsect1 id="package...ebookread.getmanifestitem.desc">
+  &title.desc;
+  &notdocumented;
+</refsect1>
+ <refsect1 id="package...ebookread.getmanifestitem.param">
+  &title.param;
+  <para>
+   <variablelist>
+    <varlistentry>
+     <term>
+      &type.int;
+      <parameter>$index</parameter>
+     </term>
+     <listitem>
+      <para>The index number of the manifest item.</para>
+     </listitem>
+    </varlistentry>
+   </variablelist>
+   <variablelist>
+    <varlistentry>
+     <term>
+      &type.string;
+      <parameter>$item</parameter>
+     </term>
+     <listitem>
+      <para>What attribute do you want from the manifest (id, href, or media-type).</para>
+     </listitem>
+    </varlistentry>
+   </variablelist>
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebookread.getmanifestitem.returns">
+  &title.returns;
+  <para>
+   <emphasis>returns</emphasis>
+   the requested data if it exists else returns null.
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebookread.getmanifestitem.throws">
+  &title.throws;
+  <para>
+   <emphasis>throws</emphasis>
+   no exceptions thrown
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebookread.getmanifestitem.note">
+  &title.note;
+  &note.notstatic;
+</refsect1>
+</refentry>

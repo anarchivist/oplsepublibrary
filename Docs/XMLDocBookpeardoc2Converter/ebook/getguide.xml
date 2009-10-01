@@ -1,0 +1,61 @@
+<refentry id="package...ebook.getguide">
+ <refnamediv>
+  <refname>
+   <function>ebook::getGuide</function>
+  </refname>
+  <refpurpose>Gets the guide item desired</refpurpose>
+ </refnamediv>
+ <refsynopsisdiv>
+  <funcsynopsis>
+   <funcsynopsisinfo>require_once &apos;/ebook.php&apos;;</funcsynopsisinfo>
+   <funcprototype>
+    <funcdef>
+     a
+     <function>ebook::getGuide</function>
+    </funcdef>
+    <paramdef>
+     $item
+     <parameter>$item</parameter>
+    </paramdef>
+   </funcprototype>
+  </funcsynopsis>
+ </refsynopsisdiv>
+ <refsect1 id="package...ebook.getguide.desc">
+  &title.desc;
+  &notdocumented;
+</refsect1>
+ <refsect1 id="package...ebook.getguide.param">
+  &title.param;
+  <para>
+   <variablelist>
+    <varlistentry>
+     <term>
+      <type>$item</type>
+      <parameter>$item</parameter>
+     </term>
+     <listitem>
+      <para>What attribute do you want from the guide (title, href, or type).</para>
+     </listitem>
+    </varlistentry>
+   </variablelist>
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebook.getguide.returns">
+  &title.returns;
+  <para>
+   <emphasis>returns</emphasis>
+   string of the requested data if it exists else returns null.
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebook.getguide.throws">
+  &title.throws;
+  <para>
+   <emphasis>throws</emphasis>
+   no exceptions thrown
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebook.getguide.note">
+  &title.note;
+  &note.notstatic;
+</refsect1>
+</refentry>

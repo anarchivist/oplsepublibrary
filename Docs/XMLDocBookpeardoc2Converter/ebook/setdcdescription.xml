@@ -1,0 +1,77 @@
+<refentry id="package...ebook.setdcdescription">
+ <refnamediv>
+  <refname>
+   <function>ebook::setDcDescription</function>
+  </refname>
+  <refpurpose>Sets the description. Multiple instances are permitted.</refpurpose>
+ </refnamediv>
+ <refsynopsisdiv>
+  <funcsynopsis>
+   <funcsynopsisinfo>require_once &apos;/ebook.php&apos;;</funcsynopsisinfo>
+   <funcprototype>
+    <funcdef>
+     void
+     <function>ebook::setDcDescription</function>
+    </funcdef>
+    <paramdef>
+     $description
+     <parameter>$description</parameter>
+    </paramdef>
+    <paramdef>
+     $index
+     <parameter>
+      <optional>$index = &null;</optional>
+     </parameter>
+    </paramdef>
+   </funcprototype>
+  </funcsynopsis>
+ </refsynopsisdiv>
+ <refsect1 id="package...ebook.setdcdescription.desc">
+  &title.desc;
+  &notdocumented;
+</refsect1>
+ <refsect1 id="package...ebook.setdcdescription.param">
+  &title.param;
+  <para>
+   <variablelist>
+    <varlistentry>
+     <term>
+      <type>$description</type>
+      <parameter>$description</parameter>
+     </term>
+     <listitem>
+      <para>
+       The description to be set. If you want set more then one description send
+       an array into this parameter.
+</para>
+     </listitem>
+    </varlistentry>
+   </variablelist>
+   <variablelist>
+    <varlistentry>
+     <term>
+      <type>$index</type>
+      <parameter>$index</parameter>
+     </term>
+     <listitem>
+      <para>
+       if there is more then one instance of this item, specify it and that item
+       will be edited.
+</para>
+     </listitem>
+    </varlistentry>
+   </variablelist>
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebook.setdcdescription.throws">
+  &title.throws;
+  <para>
+   <emphasis>throws</emphasis>
+   no exceptions thrown
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebook.setdcdescription.note">
+  &title.note;
+  &note.notstatic;
+</refsect1>
+</refentry>

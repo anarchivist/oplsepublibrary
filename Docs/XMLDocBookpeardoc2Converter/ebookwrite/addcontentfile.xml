@@ -1,0 +1,131 @@
+<refentry id="package...ebookwrite.addcontentfile">
+ <refnamediv>
+  <refname>
+   <function>ebookWrite::addContentFile</function>
+  </refname>
+  <refpurpose>
+   This is used for adding content files to an epub. Make sure you have write
+   permission to the  destination directory.
+</refpurpose>
+ </refnamediv>
+ <refsynopsisdiv>
+  <funcsynopsis>
+   <funcsynopsisinfo>require_once &apos;/ebookWrite.php&apos;;</funcsynopsisinfo>
+   <funcprototype>
+    <funcdef>
+     bool
+     <function>ebookWrite::addContentFile</function>
+    </funcdef>
+    <paramdef>
+     string
+     <parameter>$fileLoc</parameter>
+    </paramdef>
+    <paramdef>
+     string
+     <parameter>$name</parameter>
+    </paramdef>
+    <paramdef>
+     string
+     <parameter>$mime</parameter>
+    </paramdef>
+    <paramdef>
+     string
+     <parameter>
+      <optional>$subDir = &null;</optional>
+     </parameter>
+    </paramdef>
+    <paramdef>
+     string
+     <parameter>
+      <optional>$fallBackId = &null;</optional>
+     </parameter>
+    </paramdef>
+   </funcprototype>
+  </funcsynopsis>
+ </refsynopsisdiv>
+ <refsect1 id="package...ebookwrite.addcontentfile.desc">
+  &title.desc;
+  &notdocumented;
+</refsect1>
+ <refsect1 id="package...ebookwrite.addcontentfile.param">
+  &title.param;
+  <para>
+   <variablelist>
+    <varlistentry>
+     <term>
+      &type.string;
+      <parameter>$fileLoc</parameter>
+     </term>
+     <listitem>
+      <para>Where is the file currently located.</para>
+     </listitem>
+    </varlistentry>
+   </variablelist>
+   <variablelist>
+    <varlistentry>
+     <term>
+      &type.string;
+      <parameter>$name</parameter>
+     </term>
+     <listitem>
+      <para>Short discriptive name of what the content item is. eg: Chapter 3.</para>
+     </listitem>
+    </varlistentry>
+   </variablelist>
+   <variablelist>
+    <varlistentry>
+     <term>
+      &type.string;
+      <parameter>$mime</parameter>
+     </term>
+     <listitem>
+      <para>the mime type of the file being added.</para>
+     </listitem>
+    </varlistentry>
+   </variablelist>
+   <variablelist>
+    <varlistentry>
+     <term>
+      &type.string;
+      <parameter>$subDir</parameter>
+     </term>
+     <listitem>
+      <para>
+       If you want the file in a subdirectory of the content folder. Must end with
+       a slash.
+</para>
+     </listitem>
+    </varlistentry>
+   </variablelist>
+   <variablelist>
+    <varlistentry>
+     <term>
+      &type.string;
+      <parameter>$fallBackId</parameter>
+     </term>
+     <listitem>
+      <para>the id of an item you wish to use as a fallback item.</para>
+     </listitem>
+    </varlistentry>
+   </variablelist>
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebookwrite.addcontentfile.returns">
+  &title.returns;
+  <para>
+   <emphasis>returns</emphasis>
+   Returns true if the file was added successfully and false if not.
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebookwrite.addcontentfile.throws">
+  &title.throws;
+  <para>
+   <emphasis>throws</emphasis>
+   no exceptions thrown
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebookwrite.addcontentfile.note">
+  &title.note;
+  &note.notstatic;
+</refsect1>
+</refentry>

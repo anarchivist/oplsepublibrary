@@ -1,0 +1,72 @@
+<refentry id="package...ebookwrite.buildepub">
+ <refnamediv>
+  <refname>
+   <function>ebookWrite::buildEPUB</function>
+  </refname>
+  <refpurpose>Puts together the eBook and places it in the desired directory.</refpurpose>
+ </refnamediv>
+ <refsynopsisdiv>
+  <funcsynopsis>
+   <funcsynopsisinfo>require_once &apos;/ebookWrite.php&apos;;</funcsynopsisinfo>
+   <funcprototype>
+    <funcdef>
+     void
+     <function>ebookWrite::buildEPUB</function>
+    </funcdef>
+    <paramdef>
+     string
+     <parameter>$name</parameter>
+    </paramdef>
+    <paramdef>
+     string
+     <parameter>$dest</parameter>
+    </paramdef>
+   </funcprototype>
+  </funcsynopsis>
+ </refsynopsisdiv>
+ <refsect1 id="package...ebookwrite.buildepub.desc">
+  &title.desc;
+  &notdocumented;
+</refsect1>
+ <refsect1 id="package...ebookwrite.buildepub.param">
+  &title.param;
+  <para>
+   <variablelist>
+    <varlistentry>
+     <term>
+      &type.string;
+      <parameter>$name</parameter>
+     </term>
+     <listitem>
+      <para>
+       The name you want the epub file to have. Don&apos;t include a file
+       extenshion.
+</para>
+     </listitem>
+    </varlistentry>
+   </variablelist>
+   <variablelist>
+    <varlistentry>
+     <term>
+      &type.string;
+      <parameter>$dest</parameter>
+     </term>
+     <listitem>
+      <para>The location you want the final epub file.</para>
+     </listitem>
+    </varlistentry>
+   </variablelist>
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebookwrite.buildepub.throws">
+  &title.throws;
+  <para>
+   <emphasis>throws</emphasis>
+   no exceptions thrown
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebookwrite.buildepub.note">
+  &title.note;
+  &note.notstatic;
+</refsect1>
+</refentry>

@@ -1,0 +1,103 @@
+<refentry id="package...ebookwrite.setdcrelationattrib">
+ <refnamediv>
+  <refname>
+   <function>ebookWrite::setDcRelationAttrib</function>
+  </refname>
+  <refpurpose>Set the optional relation attributes.</refpurpose>
+ </refnamediv>
+ <refsynopsisdiv>
+  <funcsynopsis>
+   <funcsynopsisinfo>require_once &apos;/ebookWrite.php&apos;;</funcsynopsisinfo>
+   <funcprototype>
+    <funcdef>
+     bool
+     <function>ebookWrite::setDcRelationAttrib</function>
+    </funcdef>
+    <paramdef>
+     string
+     <parameter>$attrib</parameter>
+    </paramdef>
+    <paramdef>
+     string
+     <parameter>$attribValue</parameter>
+    </paramdef>
+    <paramdef>
+     int
+     <parameter>
+      <optional>$index = &null;</optional>
+     </parameter>
+    </paramdef>
+   </funcprototype>
+  </funcsynopsis>
+ </refsynopsisdiv>
+ <refsect1 id="package...ebookwrite.setdcrelationattrib.desc">
+  &title.desc;
+  &notdocumented;
+</refsect1>
+ <refsect1 id="package...ebookwrite.setdcrelationattrib.param">
+  &title.param;
+  <para>
+   <variablelist>
+    <varlistentry>
+     <term>
+      &type.string;
+      <parameter>$attrib</parameter>
+     </term>
+     <listitem>
+      <para>
+       The name of the optional attributes to be set. Optional attributes are
+       XmlLang.
+</para>
+     </listitem>
+    </varlistentry>
+   </variablelist>
+   <variablelist>
+    <varlistentry>
+     <term>
+      &type.string;
+      <parameter>$attribValue</parameter>
+     </term>
+     <listitem>
+      <para>
+       The value to be set for the optional attribute. If you want set more then
+       one relation attribute send  an array into this parameter. Make sure the
+       attributes corresponde the appropriate relation index
+</para>
+     </listitem>
+    </varlistentry>
+   </variablelist>
+   <variablelist>
+    <varlistentry>
+     <term>
+      &type.int;
+      <parameter>$index</parameter>
+     </term>
+     <listitem>
+      <para>
+       if there is more then one instance of this item, specify it and that item
+       will be edited.
+</para>
+     </listitem>
+    </varlistentry>
+   </variablelist>
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebookwrite.setdcrelationattrib.returns">
+  &title.returns;
+  <para>
+   <emphasis>returns</emphasis>
+   true if set or false if not.
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebookwrite.setdcrelationattrib.throws">
+  &title.throws;
+  <para>
+   <emphasis>throws</emphasis>
+   no exceptions thrown
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebookwrite.setdcrelationattrib.note">
+  &title.note;
+  &note.notstatic;
+</refsect1>
+</refentry>

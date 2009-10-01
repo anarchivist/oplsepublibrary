@@ -1,0 +1,61 @@
+<refentry id="package...ebookread.getspineitem">
+ <refnamediv>
+  <refname>
+   <function>ebookRead::getSpineItem</function>
+  </refname>
+  <refpurpose>Gets a desired spine item</refpurpose>
+ </refnamediv>
+ <refsynopsisdiv>
+  <funcsynopsis>
+   <funcsynopsisinfo>require_once &apos;/ebookRead.php&apos;;</funcsynopsisinfo>
+   <funcprototype>
+    <funcdef>
+     string
+     <function>ebookRead::getSpineItem</function>
+    </funcdef>
+    <paramdef>
+     int
+     <parameter>$index</parameter>
+    </paramdef>
+   </funcprototype>
+  </funcsynopsis>
+ </refsynopsisdiv>
+ <refsect1 id="package...ebookread.getspineitem.desc">
+  &title.desc;
+  &notdocumented;
+</refsect1>
+ <refsect1 id="package...ebookread.getspineitem.param">
+  &title.param;
+  <para>
+   <variablelist>
+    <varlistentry>
+     <term>
+      &type.int;
+      <parameter>$index</parameter>
+     </term>
+     <listitem>
+      <para>The index of the spine item to return.</para>
+     </listitem>
+    </varlistentry>
+   </variablelist>
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebookread.getspineitem.returns">
+  &title.returns;
+  <para>
+   <emphasis>returns</emphasis>
+   The requested data. If the data dosen&apos;t exist then return null.
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebookread.getspineitem.throws">
+  &title.throws;
+  <para>
+   <emphasis>throws</emphasis>
+   no exceptions thrown
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebookread.getspineitem.note">
+  &title.note;
+  &note.notstatic;
+</refsect1>
+</refentry>

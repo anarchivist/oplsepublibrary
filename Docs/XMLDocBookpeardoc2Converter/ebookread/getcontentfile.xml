@@ -1,0 +1,65 @@
+<refentry id="package...ebookread.getcontentfile">
+ <refnamediv>
+  <refname>
+   <function>ebookRead::getContentFile</function>
+  </refname>
+  <refpurpose>
+   Will give you the requested file out of the epub  Note: When finding files
+   based on the manifest&apos;s href attribute, the file locations are
+   relative to where the opf file is located in the file structure.
+</refpurpose>
+ </refnamediv>
+ <refsynopsisdiv>
+  <funcsynopsis>
+   <funcsynopsisinfo>require_once &apos;/ebookRead.php&apos;;</funcsynopsisinfo>
+   <funcprototype>
+    <funcdef>
+     string
+     <function>ebookRead::getContentFile</function>
+    </funcdef>
+    <paramdef>
+     string
+     <parameter>$location</parameter>
+    </paramdef>
+   </funcprototype>
+  </funcsynopsis>
+ </refsynopsisdiv>
+ <refsect1 id="package...ebookread.getcontentfile.desc">
+  &title.desc;
+  &notdocumented;
+</refsect1>
+ <refsect1 id="package...ebookread.getcontentfile.param">
+  &title.param;
+  <para>
+   <variablelist>
+    <varlistentry>
+     <term>
+      &type.string;
+      <parameter>$location</parameter>
+     </term>
+     <listitem>
+      <para>Where file is located inside of the content area.</para>
+     </listitem>
+    </varlistentry>
+   </variablelist>
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebookread.getcontentfile.returns">
+  &title.returns;
+  <para>
+   <emphasis>returns</emphasis>
+   The contents of the requested file.
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebookread.getcontentfile.throws">
+  &title.throws;
+  <para>
+   <emphasis>throws</emphasis>
+   no exceptions thrown
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebookread.getcontentfile.note">
+  &title.note;
+  &note.notstatic;
+</refsect1>
+</refentry>

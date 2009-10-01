@@ -1,0 +1,42 @@
+<refentry id="package...ebookread.getspine">
+ <refnamediv>
+  <refname>
+   <function>ebookRead::getSpine</function>
+  </refname>
+  <refpurpose>Gets a desired spine item</refpurpose>
+ </refnamediv>
+ <refsynopsisdiv>
+  <funcsynopsis>
+   <funcsynopsisinfo>require_once &apos;/ebookRead.php&apos;;</funcsynopsisinfo>
+   <funcprototype>
+    <funcdef>
+     string
+     <function>ebookRead::getSpine</function>
+    </funcdef>
+    <paramdef />
+   </funcprototype>
+  </funcsynopsis>
+ </refsynopsisdiv>
+ <refsect1 id="package...ebookread.getspine.desc">
+  &title.desc;
+  &notdocumented;
+</refsect1>
+ <refsect1 id="package...ebookread.getspine.returns">
+  &title.returns;
+  <para>
+   <emphasis>returns</emphasis>
+   a array of strings of the requested data. If the data dosen&apos;t exist then return null.
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebookread.getspine.throws">
+  &title.throws;
+  <para>
+   <emphasis>throws</emphasis>
+   no exceptions thrown
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebookread.getspine.note">
+  &title.note;
+  &note.notstatic;
+</refsect1>
+</refentry>

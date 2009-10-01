@@ -1,0 +1,63 @@
+<refentry id="package...ebook.getdclanguage">
+ <refnamediv>
+  <refname>
+   <function>ebook::getDcLanguage</function>
+  </refname>
+  <refpurpose>Gives you the title by default or the attribute specified</refpurpose>
+ </refnamediv>
+ <refsynopsisdiv>
+  <funcsynopsis>
+   <funcsynopsisinfo>require_once &apos;/ebook.php&apos;;</funcsynopsisinfo>
+   <funcprototype>
+    <funcdef>
+     returns
+     <function>ebook::getDcLanguage</function>
+    </funcdef>
+    <paramdef>
+     $optional
+     <parameter>
+      <optional>$optional = &null;</optional>
+     </parameter>
+    </paramdef>
+   </funcprototype>
+  </funcsynopsis>
+ </refsynopsisdiv>
+ <refsect1 id="package...ebook.getdclanguage.desc">
+  &title.desc;
+  &notdocumented;
+</refsect1>
+ <refsect1 id="package...ebook.getdclanguage.param">
+  &title.param;
+  <para>
+   <variablelist>
+    <varlistentry>
+     <term>
+      <type>$optional</type>
+      <parameter>$optional</parameter>
+     </term>
+     <listitem>
+      <para>optional attributes are, XsiType.</para>
+     </listitem>
+    </varlistentry>
+   </variablelist>
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebook.getdclanguage.returns">
+  &title.returns;
+  <para>
+   <emphasis>returns</emphasis>
+   the title when nothing is specified for $optional or returns the  attribute requested.
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebook.getdclanguage.throws">
+  &title.throws;
+  <para>
+   <emphasis>throws</emphasis>
+   no exceptions thrown
+  </para>
+ </refsect1>
+ <refsect1 id="package...ebook.getdclanguage.note">
+  &title.note;
+  &note.notstatic;
+</refsect1>
+</refentry>
